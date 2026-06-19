@@ -1,0 +1,1501 @@
+Student_ID,Student_Name,Total_Days,Present_Days,Attendance_Percentage,Assignment_Score,Internal_Marks,Final_Label
+S0001,Anem Janardhana Rao,120,89,77.39,62,83,Certified
+S0002,Ch Chaitanya,120,5,4.24,81,82,Not Certified
+S0003,G Vamshi,120,35,58.33,70,46,Not Certified
+S0004,K Nanda,120,18,27.69,91,48,Not Certified
+S0005,Y Jaswanth,120,66,64.71,75,71,Not Certified
+S0006,V Trigun,120,30,43.48,89,36,Not Certified
+S0007,Heather Gutierrez,120,64,96.97,84,68,Certified
+S0008,Zachary Murphy,120,65,66.33,92,42,Not Certified
+S0009,Margaret Anderson,120,40,44.94,93,91,Not Certified
+S0010,Diana Donovan,120,38,32.2,93,67,Not Certified
+S0011,Katie Hanson,120,47,55.95,57,51,Not Certified
+S0012,Megan Moran,120,65,84.42,62,100,Certified
+S0013,Chelsea Winters,120,70,70,72,72,Not Certified
+S0014,Keith Patel,120,8,7.92,50,98,Not Certified
+S0015,Jeffrey Todd,120,31,51.67,57,46,Not Certified
+S0016,Timothy Smith,120,26,37.68,57,61,Not Certified
+S0017,Kimberly Williams,120,2,2.33,52,80,Not Certified
+S0018,Theresa Roberts,120,111,96.52,65,53,Certified
+S0019,Francisco Aguilar,120,9,8.26,75,38,Not Certified
+S0020,Megan Cohen,120,5,6.67,68,41,Not Certified
+S0021,Lisa Hall,120,31,50.82,96,75,Not Certified
+S0022,Steven Barnes,120,25,31.65,53,99,Not Certified
+S0023,Christina Sanchez,120,90,100,48,97,Certified
+S0024,Jessica Smith,120,1,1.09,56,73,Not Certified
+S0025,Christopher Anderson,120,88,80,90,79,Certified
+S0026,Rebecca Tucker,120,58,87.88,48,58,Certified
+S0027,Gina Wheeler,120,8,10.26,83,36,Not Certified
+S0028,Jennifer Robinson,120,28,29.79,54,80,Not Certified
+S0029,Lindsay Johnson,120,58,80.56,71,97,Certified
+S0030,Erik Cooper,120,18,29.51,50,85,Not Certified
+S0031,Chad Greene,120,49,56.32,85,47,Not Certified
+S0032,Penny Gonzalez,120,86,81.13,100,49,Not Certified
+S0033,Jennifer Johnson,120,85,89.47,92,96,Certified
+S0034,Christopher Waters,120,47,70.15,77,54,Not Certified
+S0035,Yolanda Padilla,120,42,54.55,93,35,Not Certified
+S0036,Tony Gillespie,120,10,16.13,45,69,Not Certified
+S0037,Bernard Allen,120,4,4.4,60,80,Not Certified
+S0038,David Acosta MD,120,19,27.54,52,46,Not Certified
+S0039,Edwin Goodwin,120,62,56.36,94,64,Not Certified
+S0040,Barbara Jensen,120,98,88.29,59,43,Not Certified
+S0041,Dana Graham,120,51,44.35,96,73,Not Certified
+S0042,Kenneth Simon,120,29,24.79,54,90,Not Certified
+S0043,Eric Hensley,120,46,59.74,62,68,Not Certified
+S0044,Brian Martinez,120,19,25,48,61,Not Certified
+S0045,Nichole Richard,120,50,73.53,65,38,Not Certified
+S0046,Richard Wiggins,120,63,59.43,44,55,Not Certified
+S0047,Charlene Rodriguez,120,12,11.11,50,94,Not Certified
+S0048,Jennifer Mcfarland,120,81,82.65,46,94,Certified
+S0049,Mariah Evans,120,58,55.77,82,79,Not Certified
+S0050,Christina Torres,120,41,54.67,66,85,Not Certified
+S0051,Kimberly Miller,120,76,95,83,59,Certified
+S0052,Jack Garcia,120,33,37.5,97,61,Not Certified
+S0053,Shane Gibson,120,32,35.16,53,63,Not Certified
+S0054,Maria Guzman,120,61,68.54,93,74,Not Certified
+S0055,Mary Hayes,120,50,53.19,92,92,Not Certified
+S0056,Laura Lowe,120,65,94.2,61,58,Certified
+S0057,Kristina Cochran,120,34,55.74,40,84,Not Certified
+S0058,Louis Martinez,120,46,46.46,52,41,Not Certified
+S0059,Richard Walker,120,110,100,75,39,Not Certified
+S0060,Sharon Vincent,120,32,31.37,88,65,Not Certified
+S0061,Rachel Moore,120,14,13.21,44,75,Not Certified
+S0062,Richard Gray,120,29,47.54,95,50,Not Certified
+S0063,Mary Donovan,120,50,60.98,58,76,Not Certified
+S0064,Mariah Barker,120,87,82.08,56,68,Certified
+S0065,Brandon Sullivan,120,61,89.71,55,35,Not Certified
+S0066,Angela Krueger,120,7,7.69,91,59,Not Certified
+S0067,Jack Day,120,66,78.57,72,47,Not Certified
+S0068,Vincent Morrow,120,21,17.8,53,44,Not Certified
+S0069,James Burke,120,4,5.71,72,76,Not Certified
+S0070,Jenna Hicks,120,16,21.62,81,67,Not Certified
+S0071,John Mayer,120,62,52.99,48,41,Not Certified
+S0072,Stephanie Massey,120,83,75.45,42,63,Certified
+S0073,Adam Horton,120,66,81.48,63,87,Certified
+S0074,John Smith,120,21,19.63,61,72,Not Certified
+S0075,Robert Smith,120,10,9.35,82,70,Not Certified
+S0076,Karen Joseph,120,44,68.75,97,98,Not Certified
+S0077,Rebecca Wilson,120,23,26.14,98,78,Not Certified
+S0078,Heidi Hernandez,120,32,45.07,96,98,Not Certified
+S0079,Randall Allen,120,24,32.43,43,38,Not Certified
+S0080,Rachel Decker,120,41,47.67,74,97,Not Certified
+S0081,Kimberly Griffin,120,47,74.6,96,97,Not Certified
+S0082,Katherine Reese,120,53,79.1,60,83,Certified
+S0083,Jeffery Richard,120,3,2.68,67,49,Not Certified
+S0084,Crystal Martinez,120,54,61.36,85,34,Not Certified
+S0085,Bethany Wolf,120,18,21.18,73,68,Not Certified
+S0086,Richard Davidson,120,79,98.75,65,32,Not Certified
+S0087,Amber Robinson,120,95,85.59,72,95,Certified
+S0088,Christopher Gray,120,20,29.85,76,57,Not Certified
+S0089,Corey Fletcher,120,105,90.52,74,96,Certified
+S0090,Carrie Savage,120,45,63.38,61,45,Not Certified
+S0091,Lisa Lee,120,71,73.2,75,71,Not Certified
+S0092,Fernando Meyer,120,6,6.74,65,64,Not Certified
+S0093,Douglas Massey,120,84,85.71,46,34,Not Certified
+S0094,Joel Martin,120,24,38.71,56,76,Not Certified
+S0095,Michael Dominguez,120,24,32.43,92,38,Not Certified
+S0096,Joseph Wells,120,45,45.45,63,47,Not Certified
+S0097,Zachary Harris,120,16,21.05,91,35,Not Certified
+S0098,Dr. Alejandro Cline,120,48,78.69,63,92,Certified
+S0099,Caitlin Peters,120,55,55,97,33,Not Certified
+S0100,John Mccoy,120,63,79.75,50,52,Certified
+S0101,John Dominguez,120,7,10.94,72,69,Not Certified
+S0102,William Peterson,120,57,52.29,69,87,Not Certified
+S0103,Robin Patel,120,32,37.65,100,71,Not Certified
+S0104,John Jones,120,31,32.98,95,62,Not Certified
+S0105,Julia Perez,120,67,81.71,90,79,Certified
+S0106,Jason Martinez,120,47,54.65,52,97,Not Certified
+S0107,Jordan Miller,120,21,34.43,76,96,Not Certified
+S0108,Robert Lam,120,100,90.09,57,56,Certified
+S0109,Kenneth Morales,120,6,5.13,90,38,Not Certified
+S0110,Stephen Edwards,120,41,64.06,78,32,Not Certified
+S0111,Tracey Wolf MD,120,74,100,87,84,Certified
+S0112,Robert Martinez,120,46,63.89,42,49,Not Certified
+S0113,David Orozco,120,30,40.54,83,71,Not Certified
+S0114,Renee Brown,120,19,15.83,82,56,Not Certified
+S0115,Leah Martinez,120,106,99.07,69,31,Not Certified
+S0116,Timothy Nunez,120,61,65.59,61,58,Not Certified
+S0117,Mrs. Erica Alvarado,120,59,83.1,97,85,Certified
+S0118,Frank Castillo,120,101,92.66,98,63,Certified
+S0119,Francisco Martinez,120,86,75.44,90,56,Certified
+S0120,Douglas Lam,120,33,45.21,67,49,Not Certified
+S0121,Thomas Lloyd,120,54,50,49,30,Not Certified
+S0122,Rhonda Robinson,120,23,28.75,95,43,Not Certified
+S0123,Catherine Henson,120,17,16.35,64,53,Not Certified
+S0124,Michael Aguilar,120,51,79.69,63,91,Certified
+S0125,Crystal Lane,120,34,30.63,75,65,Not Certified
+S0126,Jennifer Ross,120,79,66.95,67,62,Not Certified
+S0127,Curtis Wright,120,48,53.93,79,32,Not Certified
+S0128,Laura Young,120,12,10.81,76,100,Not Certified
+S0129,Holly Brown,120,0,0,58,54,Not Certified
+S0130,Danny Myers,120,16,26.23,98,62,Not Certified
+S0131,Steven Meyer,120,106,99.07,94,70,Certified
+S0132,Dr. Kevin Brown DDS,120,32,39.02,62,72,Not Certified
+S0133,Jordan Nelson,120,91,85.85,78,79,Certified
+S0134,Candace Burns,120,23,34.85,67,76,Not Certified
+S0135,Colleen Wall,120,23,20.72,59,79,Not Certified
+S0136,Richard Garcia,120,53,56.99,74,59,Not Certified
+S0137,Jessica Burns,120,15,17.24,94,43,Not Certified
+S0138,Scott Doyle,120,0,0,71,47,Not Certified
+S0139,Linda Mcbride,120,1,1.15,44,51,Not Certified
+S0140,Wesley Mccarty,120,49,79.03,49,46,Not Certified
+S0141,April Ferguson,120,102,91.07,52,79,Certified
+S0142,Christopher Mason,120,14,21.21,72,67,Not Certified
+S0143,Robert Moore,120,39,56.52,41,74,Not Certified
+S0144,Jennifer Richards,120,56,83.58,96,55,Certified
+S0145,Michele Allison,120,49,51.58,66,37,Not Certified
+S0146,Mary Sandoval,120,66,73.33,49,94,Not Certified
+S0147,Katherine Lee,120,53,53,44,95,Not Certified
+S0148,Courtney Hayden,120,27,34.18,43,42,Not Certified
+S0149,Carolyn Soto,120,57,95,75,91,Certified
+S0150,Donald Torres,120,27,39.13,77,85,Not Certified
+S0151,Kendra Gardner,120,7,11.11,42,62,Not Certified
+S0152,Christopher Scott,120,39,48.15,94,34,Not Certified
+S0153,Steven Strong,120,57,71.25,87,54,Not Certified
+S0154,Susan Shannon,120,93,80.17,80,43,Not Certified
+S0155,Nicholas Jordan,120,75,93.75,44,97,Certified
+S0156,David Whitaker,120,15,17.86,47,86,Not Certified
+S0157,Robin Sampson,120,32,35.56,53,38,Not Certified
+S0158,Teresa Powell,120,77,85.56,93,74,Certified
+S0159,Vanessa Larsen,120,4,4.76,87,75,Not Certified
+S0160,Daniel West,120,65,94.2,45,42,Not Certified
+S0161,Natasha Martin,120,61,93.85,84,32,Not Certified
+S0162,Victoria Porter,120,51,44.35,95,63,Not Certified
+S0163,Michelle Fisher,120,9,11.11,47,71,Not Certified
+S0164,Holly Hunter,120,14,15.38,93,81,Not Certified
+S0165,Jordan Johnson,120,44,47.83,60,60,Not Certified
+S0166,Monica Harris,120,21,18.42,49,67,Not Certified
+S0167,Jamie Powers,120,36,60,67,99,Not Certified
+S0168,Amber Robles,120,48,80,67,90,Certified
+S0169,Kathryn Jones,120,58,82.86,42,57,Certified
+S0170,Mark Burton,120,35,31.53,63,100,Not Certified
+S0171,Mario Chandler,120,15,19.74,48,89,Not Certified
+S0172,Tina Lopez,120,37,47.44,81,93,Not Certified
+S0173,Michele Smith,120,10,15.15,88,36,Not Certified
+S0174,Jeffrey Davis,120,68,59.65,83,40,Not Certified
+S0175,Jessica Olson,120,51,62.96,67,60,Not Certified
+S0176,Adam Daniel,120,10,15.38,46,76,Not Certified
+S0177,Joseph Thomas,120,84,70.59,82,80,Not Certified
+S0178,Ryan Miller,120,5,7.25,77,96,Not Certified
+S0179,Stacy Maynard,120,11,11.34,85,95,Not Certified
+S0180,Janice Ramsey,120,50,55.56,46,87,Not Certified
+S0181,Richard Herring,120,64,55.17,60,48,Not Certified
+S0182,Gary Fowler,120,36,32.14,65,81,Not Certified
+S0183,Anthony Beltran,120,86,95.56,86,75,Certified
+S0184,Stephen Richards,120,19,27.14,81,67,Not Certified
+S0185,Christopher Hall,120,15,12.61,98,69,Not Certified
+S0186,Abigail Butler,120,104,92.04,69,41,Not Certified
+S0187,Alex Jones,120,57,68.67,81,39,Not Certified
+S0188,Melissa Wilson,120,42,42.86,51,57,Not Certified
+S0189,Scott Martin,120,62,53.45,51,100,Not Certified
+S0190,Scott Alvarez,120,45,39.47,97,91,Not Certified
+S0191,Megan Harris,120,53,48.18,44,99,Not Certified
+S0192,Chad Huang,120,57,51.35,93,96,Not Certified
+S0193,Mr. Matthew Mitchell,120,51,75,60,68,Certified
+S0194,Michael Johnson,120,86,91.49,48,67,Certified
+S0195,Thomas Stuart,120,93,78.81,65,49,Not Certified
+S0196,Brian Hendrix,120,28,43.75,45,74,Not Certified
+S0197,Connor Molina,120,41,67.21,53,63,Not Certified
+S0198,Carmen Washington,120,1,1.16,49,72,Not Certified
+S0199,Emily Wood,120,12,13.19,78,58,Not Certified
+S0200,Courtney Hamilton,120,21,23.33,79,87,Not Certified
+S0201,Jacqueline Jordan,120,24,25,88,67,Not Certified
+S0202,Grace Miller,120,18,22.78,93,45,Not Certified
+S0203,Brittany Harris,120,11,14.1,89,61,Not Certified
+S0204,Joseph Simmons,120,71,87.65,86,71,Certified
+S0205,Alyssa Leon,120,87,100,79,98,Certified
+S0206,Nicholas Morgan,120,21,25,45,65,Not Certified
+S0207,Tanya Juarez,120,31,50,85,48,Not Certified
+S0208,Aimee Mcguire,120,62,87.32,54,40,Not Certified
+S0209,Marcus Duncan,120,47,55.95,43,57,Not Certified
+S0210,Joseph Walker,120,66,82.5,44,40,Not Certified
+S0211,Whitney Mcmillan,120,39,62.9,48,71,Not Certified
+S0212,John Thomas,120,56,54.37,67,49,Not Certified
+S0213,Meghan Robbins,120,46,38.98,78,32,Not Certified
+S0214,Laurie Rivera,120,80,88.89,88,80,Certified
+S0215,Tyler Pugh,120,52,62.65,51,38,Not Certified
+S0216,Brooke Greene,120,8,9.3,75,33,Not Certified
+S0217,Andrew Cole,120,22,20.56,92,60,Not Certified
+S0218,Jose Schneider,120,69,69.7,65,64,Not Certified
+S0219,Paula Wright,120,27,30.34,56,37,Not Certified
+S0220,Juan Baldwin,120,55,50,65,63,Not Certified
+S0221,Laura Smith,120,76,69.09,75,35,Not Certified
+S0222,Daniel Stephenson,120,61,72.62,70,50,Not Certified
+S0223,James Fox,120,21,24.71,98,54,Not Certified
+S0224,Jessica Smith,120,46,38.98,52,44,Not Certified
+S0225,Jessica Graham,120,29,32.58,40,86,Not Certified
+S0226,Kendra Bates,120,62,100,53,55,Certified
+S0227,Ricky Gibson,120,45,51.14,63,47,Not Certified
+S0228,Paula Bartlett,120,50,73.53,72,73,Not Certified
+S0229,Traci Jacobs,120,29,31.52,53,93,Not Certified
+S0230,Megan Owens,120,28,27.18,83,98,Not Certified
+S0231,Justin Casey,120,10,11.36,48,32,Not Certified
+S0232,Amy Rodriguez,120,47,74.6,45,92,Not Certified
+S0233,Elizabeth Ortega,120,58,53.7,81,35,Not Certified
+S0234,Brian Bryan,120,53,79.1,57,54,Certified
+S0235,Elizabeth Chang,120,53,58.24,79,91,Not Certified
+S0236,Scott Hanna,120,35,36.08,86,69,Not Certified
+S0237,Kenneth Moore,120,68,97.14,99,46,Not Certified
+S0238,Sandra Estes,120,27,39.13,45,60,Not Certified
+S0239,Manuel Alvarez,120,16,21.62,52,100,Not Certified
+S0240,John Singleton,120,99,98.02,62,67,Certified
+S0241,Rachel Miles,120,11,13.41,91,87,Not Certified
+S0242,Victoria Wilson,120,92,100,44,59,Certified
+S0243,Spencer Smith,120,2,1.8,78,92,Not Certified
+S0244,Tammy Brown,120,86,85.15,48,69,Certified
+S0245,Patrick Scott,120,83,75.45,61,50,Certified
+S0246,Michael Curry,120,70,69.31,94,76,Not Certified
+S0247,Matthew Davis,120,17,26.15,63,49,Not Certified
+S0248,Ashley Pace,120,51,72.86,56,60,Not Certified
+S0249,Charles Woods,120,53,84.13,88,55,Certified
+S0250,Joan Wilson,120,20,31.75,50,47,Not Certified
+S0251,Michael Marshall,120,30,37.5,56,31,Not Certified
+S0252,Mrs. Shelley Archer,120,36,40.91,65,72,Not Certified
+S0253,Holly Lamb,120,66,97.06,63,81,Certified
+S0254,Keith Baker,120,77,64.71,84,61,Not Certified
+S0255,Darren Morales,120,75,75.76,82,84,Certified
+S0256,David Ward,120,63,74.12,85,56,Not Certified
+S0257,Christine Duran,120,61,96.83,57,48,Not Certified
+S0258,Anthony Foster,120,8,10.53,49,44,Not Certified
+S0259,Matthew Johnson,120,50,46.3,69,87,Not Certified
+S0260,Natalie Frazier,120,23,28.4,87,31,Not Certified
+S0261,Kristen Williams,120,63,64.95,56,64,Not Certified
+S0262,Denise Love,120,52,50,79,80,Not Certified
+S0263,John Miller,120,64,70.33,96,60,Not Certified
+S0264,Todd Roach Jr.,120,77,66.38,78,44,Not Certified
+S0265,Kirsten Garcia,120,50,43.48,49,91,Not Certified
+S0266,Katelyn Smith,120,101,100,63,67,Certified
+S0267,Teresa Jimenez,120,36,45,89,85,Not Certified
+S0268,Kelly Blake,120,54,51.43,92,40,Not Certified
+S0269,Brian Gross,120,44,48.35,79,39,Not Certified
+S0270,Valerie Reid,120,1,1.06,72,41,Not Certified
+S0271,Robin Burton,120,80,81.63,56,64,Certified
+S0272,William Farrell DDS,120,61,79.22,56,88,Certified
+S0273,Michelle Abbott,120,22,21.36,40,34,Not Certified
+S0274,Jessica Oconnor,120,28,24.78,71,70,Not Certified
+S0275,Pamela Weaver,120,89,94.68,94,90,Certified
+S0276,Cheyenne Macias,120,69,89.61,57,50,Certified
+S0277,Jasmine Weber,120,55,63.95,89,91,Not Certified
+S0278,April Wilson,120,36,47.37,68,65,Not Certified
+S0279,Margaret Owens,120,58,67.44,93,51,Not Certified
+S0280,Michael Padilla Jr.,120,57,73.08,78,53,Not Certified
+S0281,Kevin Collins,120,8,9.2,45,90,Not Certified
+S0282,Ethan Ramirez,120,25,32.89,40,90,Not Certified
+S0283,Joshua Thompson,120,28,32.56,68,58,Not Certified
+S0284,Kathryn Bailey,120,57,55.88,71,51,Not Certified
+S0285,Michelle Colon,120,61,83.56,94,61,Certified
+S0286,Carl Ellis,120,55,72.37,72,68,Not Certified
+S0287,Traci Thompson,120,66,61.68,69,100,Not Certified
+S0288,Chad Hunter,120,43,41.35,46,91,Not Certified
+S0289,Lynn Hernandez,120,57,87.69,74,46,Not Certified
+S0290,Thomas White,120,63,58.88,56,91,Not Certified
+S0291,Ashley Rosales,120,64,80,50,41,Not Certified
+S0292,Thomas Calderon,120,63,75,64,32,Not Certified
+S0293,Samantha Wade,120,26,32.1,46,67,Not Certified
+S0294,Kyle Mcguire,120,3,4.29,94,90,Not Certified
+S0295,Lauren Schmidt,120,31,30.39,99,99,Not Certified
+S0296,Christopher Davidson,120,70,95.89,45,55,Certified
+S0297,Christina Ross,120,75,86.21,42,75,Certified
+S0298,William Harris,120,32,42.67,45,93,Not Certified
+S0299,Sandra Torres,120,3,4.41,46,84,Not Certified
+S0300,Jared Nelson,120,0,0,59,60,Not Certified
+S0301,Mark Dalton,120,62,68.89,59,70,Not Certified
+S0302,Angela Mitchell,120,40,40.82,91,57,Not Certified
+S0303,Danielle Williams,120,83,81.37,85,75,Certified
+S0304,Brett Bell,120,57,83.82,54,95,Certified
+S0305,Juan Villegas,120,30,35.29,76,36,Not Certified
+S0306,Elizabeth Nash,120,12,14.12,72,41,Not Certified
+S0307,Mr. Todd Baker DDS,120,8,6.78,48,82,Not Certified
+S0308,Angela Stevens,120,27,26.73,79,93,Not Certified
+S0309,Scott Garcia,120,38,53.52,49,93,Not Certified
+S0310,Lindsey Mendez,120,0,0,76,100,Not Certified
+S0311,Thomas Edwards,120,96,95.05,63,72,Certified
+S0312,Wanda Curtis,120,16,26.67,63,35,Not Certified
+S0313,Nicole Montoya,120,3,2.65,41,72,Not Certified
+S0314,Kevin Cunningham,120,33,45.21,63,32,Not Certified
+S0315,John Chambers,120,7,10.14,48,82,Not Certified
+S0316,Kristine Marshall,120,1,0.94,71,31,Not Certified
+S0317,Eric Lee,120,28,29.17,94,93,Not Certified
+S0318,Paul Torres,120,77,83.7,52,53,Certified
+S0319,Richard Mckinney,120,20,20,55,93,Not Certified
+S0320,Christopher Webb,120,75,89.29,82,39,Not Certified
+S0321,Sarah Blackwell,120,27,23.08,48,64,Not Certified
+S0322,Christine Phillips,120,22,34.92,97,83,Not Certified
+S0323,Tanner Jones,120,25,22.73,76,30,Not Certified
+S0324,Lawrence Stewart,120,11,10.48,100,44,Not Certified
+S0325,Mr. Brian Jefferson,120,58,89.23,74,77,Certified
+S0326,Randy Hill,120,49,46.67,69,80,Not Certified
+S0327,Christopher Glass,120,6,7.89,73,99,Not Certified
+S0328,Jessica Castillo,120,29,34.52,89,70,Not Certified
+S0329,Teresa Flores,120,48,61.54,60,84,Not Certified
+S0330,Barry Mcguire,120,64,61.54,88,37,Not Certified
+S0331,Sheri Williams MD,120,35,57.38,73,53,Not Certified
+S0332,Cindy Gordon,120,26,34.67,85,60,Not Certified
+S0333,Wendy Gill,120,32,53.33,49,83,Not Certified
+S0334,Henry Bryant,120,73,72.28,53,32,Not Certified
+S0335,Wendy Taylor,120,40,42.55,71,78,Not Certified
+S0336,Monica Gordon,120,1,0.9,50,100,Not Certified
+S0337,Brooke Clayton,120,98,86.73,71,53,Certified
+S0338,Donna Robinson,120,60,73.17,100,76,Not Certified
+S0339,Kiara Gibson,120,34,49.28,96,54,Not Certified
+S0340,Amy Clark,120,24,26.97,61,85,Not Certified
+S0341,Ronnie Long,120,51,66.23,55,36,Not Certified
+S0342,Joseph Chavez,120,28,38.36,88,30,Not Certified
+S0343,Miss Sarah Gordon,120,73,83.91,41,48,Not Certified
+S0344,Michelle Wilson,120,64,80,80,95,Certified
+S0345,Isaac Smith,120,77,97.47,45,92,Certified
+S0346,Katherine Jones,120,1,0.85,70,92,Not Certified
+S0347,Emily Farrell,120,27,28.42,41,35,Not Certified
+S0348,Christopher Olson,120,44,38.6,78,63,Not Certified
+S0349,Jermaine Salazar,120,25,34.72,93,75,Not Certified
+S0350,Samuel Carter,120,50,48.08,57,43,Not Certified
+S0351,Cody Washington,120,70,75.27,65,39,Not Certified
+S0352,Albert Francis,120,12,19.35,60,35,Not Certified
+S0353,Theresa Thomas,120,37,53.62,60,77,Not Certified
+S0354,Jerry Martinez,120,54,50.94,52,57,Not Certified
+S0355,Alicia Berry,120,8,8.25,79,43,Not Certified
+S0356,Alexander Bass,120,55,75.34,91,89,Certified
+S0357,Hailey Solomon,120,23,21.1,63,87,Not Certified
+S0358,Cindy Brandt,120,81,84.38,84,57,Certified
+S0359,Tina Garrison,120,21,20.19,49,97,Not Certified
+S0360,Dana Leonard,120,89,82.41,72,82,Certified
+S0361,Suzanne Moore,120,67,56.78,64,86,Not Certified
+S0362,Leah Lewis,120,6,6.9,91,60,Not Certified
+S0363,Sara Conley,120,68,97.14,100,71,Certified
+S0364,Joseph Hernandez,120,39,33.62,99,88,Not Certified
+S0365,Patrick Navarro,120,66,90.41,79,65,Certified
+S0366,Caitlyn Quinn,120,36,57.14,83,48,Not Certified
+S0367,Heather Gutierrez,120,58,49.15,66,49,Not Certified
+S0368,Jackie Raymond,120,60,96.77,55,94,Certified
+S0369,Ronald Smith,120,94,82.46,42,61,Certified
+S0370,Nancy Wilson,120,95,85.59,41,72,Certified
+S0371,Nicole White,120,8,7.77,75,84,Not Certified
+S0372,Mary Williams,120,44,37.29,59,78,Not Certified
+S0373,Ashley Farrell,120,36,48,53,53,Not Certified
+S0374,Miranda Williams,120,6,6.38,59,100,Not Certified
+S0375,Donna Wilson,120,62,72.09,87,42,Not Certified
+S0376,Patty Lewis,120,66,61.68,71,82,Not Certified
+S0377,Jimmy Copeland,120,15,20.27,81,70,Not Certified
+S0378,Natalie Miller,120,25,28.74,69,80,Not Certified
+S0379,Mike Curtis,120,40,36.04,49,94,Not Certified
+S0380,Thomas Ramos,120,55,76.39,45,70,Certified
+S0381,Kiara Mcdonald,120,4,5.48,47,36,Not Certified
+S0382,Emily Meza,120,74,62.71,88,39,Not Certified
+S0383,Michelle Garrison,120,7,9.21,59,99,Not Certified
+S0384,Holly Johnston,120,10,15.62,86,47,Not Certified
+S0385,Benjamin Myers,120,29,28.43,89,82,Not Certified
+S0386,Janet Ruiz,120,40,53.33,61,56,Not Certified
+S0387,Nathan Burke,120,48,40.68,40,99,Not Certified
+S0388,Sandra Smith,120,60,89.55,97,47,Not Certified
+S0389,Angela Foster MD,120,101,98.06,50,89,Certified
+S0390,Elizabeth Page,120,92,82.14,56,74,Certified
+S0391,Todd Cohen,120,40,54.79,40,49,Not Certified
+S0392,Sarah Avila,120,89,87.25,79,53,Certified
+S0393,Zachary Martinez,120,18,16.51,83,89,Not Certified
+S0394,Paul Ramirez,120,62,93.94,64,67,Certified
+S0395,Carlos Smith,120,44,55,60,38,Not Certified
+S0396,Stephen Vargas,120,56,68.29,42,65,Not Certified
+S0397,Keith Edwards,120,22,18.97,77,89,Not Certified
+S0398,Bethany Elliott,120,36,41.38,79,97,Not Certified
+S0399,Amy Baker,120,46,41.82,52,76,Not Certified
+S0400,Michael Patel,120,18,18.95,92,81,Not Certified
+S0401,Michael Davis,120,8,11.94,41,98,Not Certified
+S0402,Bryan Perry,120,100,100,72,94,Certified
+S0403,Mike Lane,120,20,28.99,97,34,Not Certified
+S0404,Robin Jones,120,21,18.42,85,52,Not Certified
+S0405,Angelica Jones,120,11,15.28,60,78,Not Certified
+S0406,Anthony Chavez,120,7,9.72,73,36,Not Certified
+S0407,Austin Davis,120,86,85.15,42,38,Not Certified
+S0408,Susan Small,120,29,29,87,78,Not Certified
+S0409,James Perkins,120,39,43.33,75,68,Not Certified
+S0410,Laura Serrano,120,84,70.59,96,93,Not Certified
+S0411,Gina Boyd,120,69,89.61,79,55,Certified
+S0412,Jeffrey Lyons,120,2,1.87,72,89,Not Certified
+S0413,William Smith,120,27,22.88,57,77,Not Certified
+S0414,Andrea Moore,120,63,57.27,68,54,Not Certified
+S0415,Rachel Kim,120,43,53.75,58,90,Not Certified
+S0416,Patricia Lowe,120,78,74.29,55,50,Not Certified
+S0417,Jacob Vasquez,120,104,93.69,71,30,Not Certified
+S0418,Jason Morrison,120,82,87.23,79,54,Certified
+S0419,Angela Sullivan,120,5,6.49,62,31,Not Certified
+S0420,Kristi Brown,120,35,46.67,54,87,Not Certified
+S0421,Marco Jackson,120,47,75.81,96,95,Certified
+S0422,Sara Conner,120,34,34.34,85,38,Not Certified
+S0423,Taylor Willis,120,54,51.92,77,36,Not Certified
+S0424,Kimberly Lee,120,83,79.81,41,95,Certified
+S0425,Patricia Baker,120,56,77.78,54,96,Certified
+S0426,James Davis,120,73,82.95,91,35,Not Certified
+S0427,Bianca Taylor,120,62,96.88,100,73,Certified
+S0428,Matthew Perez,120,48,41.38,88,36,Not Certified
+S0429,Cody Scott,120,58,51.33,42,35,Not Certified
+S0430,Dennis Franklin,120,84,87.5,48,55,Certified
+S0431,Brenda Cantrell,120,30,32.26,61,37,Not Certified
+S0432,Erika Graham,120,56,87.5,58,100,Certified
+S0433,Ana Phillips,120,13,13.54,73,82,Not Certified
+S0434,Melissa Murray,120,53,62.35,88,100,Not Certified
+S0435,Evelyn Winters,120,94,82.46,48,38,Not Certified
+S0436,Katherine Young,120,4,4.49,41,56,Not Certified
+S0437,Gabriel Shields,120,51,71.83,64,62,Not Certified
+S0438,Katherine Clements,120,74,96.1,44,83,Certified
+S0439,Mitchell Phelps,120,57,69.51,71,45,Not Certified
+S0440,Wayne Grimes,120,16,21.33,59,36,Not Certified
+S0441,Latoya Wright,120,73,86.9,47,91,Certified
+S0442,Christopher Salas,120,68,79.07,44,51,Certified
+S0443,Ray Webb,120,82,89.13,68,68,Certified
+S0444,Stephanie Brown,120,19,21.59,94,49,Not Certified
+S0445,Brett Cross,120,59,57.84,54,63,Not Certified
+S0446,Jillian Castillo,120,76,98.7,46,89,Certified
+S0447,Jerry Cochran PhD,120,15,12.71,40,40,Not Certified
+S0448,Michael Taylor,120,76,77.55,74,76,Certified
+S0449,Dr. Bianca Fuller DDS,120,67,91.78,81,48,Not Certified
+S0450,April Drake,120,34,35.05,69,72,Not Certified
+S0451,Timothy Russell,120,35,46.67,41,40,Not Certified
+S0452,Misty Castro,120,38,45.24,62,37,Not Certified
+S0453,Charles Hansen,120,16,23.88,50,49,Not Certified
+S0454,Nicholas Jones,120,112,94.12,65,100,Certified
+S0455,Ryan Johnson,120,44,49.44,80,43,Not Certified
+S0456,Walter Thomas,120,86,81.13,58,95,Certified
+S0457,Timothy Garcia,120,37,45.12,71,66,Not Certified
+S0458,Francisco Mcdowell,120,100,90.91,45,69,Certified
+S0459,Frank Murray,120,93,98.94,98,78,Certified
+S0460,Paul Nguyen,120,21,21.88,73,53,Not Certified
+S0461,Patrick Quinn,120,13,19.4,42,66,Not Certified
+S0462,Steven Douglas,120,57,89.06,40,53,Certified
+S0463,Jerome Morrison DDS,120,59,64.13,75,81,Not Certified
+S0464,Austin Nelson,120,67,62.04,100,61,Not Certified
+S0465,Crystal Hill,120,3,2.5,79,46,Not Certified
+S0466,Ryan Palmer,120,52,69.33,59,42,Not Certified
+S0467,John Mayo,120,5,4.35,57,81,Not Certified
+S0468,Rhonda Cruz,120,84,92.31,46,91,Certified
+S0469,Thomas Poole,120,97,85.09,71,32,Not Certified
+S0470,Kevin Booker,120,64,71.91,50,62,Not Certified
+S0471,Kristen Mcconnell,120,24,36.92,62,57,Not Certified
+S0472,Desiree Gentry,120,53,85.48,43,35,Not Certified
+S0473,Miguel Taylor,120,59,64.13,55,41,Not Certified
+S0474,Regina Stephens,120,43,48.31,75,63,Not Certified
+S0475,Reginald Joseph,120,50,60.24,54,90,Not Certified
+S0476,William Williams,120,36,43.9,97,35,Not Certified
+S0477,Tanya Santana,120,17,21.52,50,76,Not Certified
+S0478,Jerry Mata,120,20,30.3,48,35,Not Certified
+S0479,Olivia Tran,120,52,62.65,92,71,Not Certified
+S0480,Robert Bowman,120,110,100,71,71,Certified
+S0481,Robert Jackson,120,8,8.42,93,79,Not Certified
+S0482,Shawn Pace,120,31,27.19,47,77,Not Certified
+S0483,Chad Hopkins,120,71,66.98,93,51,Not Certified
+S0484,Misty Roberts,120,62,74.7,76,92,Not Certified
+S0485,Andrew Gibson,120,31,30.69,83,35,Not Certified
+S0486,Ruben Wagner,120,17,14.17,94,98,Not Certified
+S0487,Stephen Brown,120,55,50,99,97,Not Certified
+S0488,Kenneth Frazier,120,55,82.09,59,84,Certified
+S0489,Jennifer Garcia,120,65,69.89,50,70,Not Certified
+S0490,Kayla Griffin,120,68,95.77,94,78,Certified
+S0491,Angelica Knox,120,100,94.34,66,84,Certified
+S0492,Jeffrey White,120,73,86.9,67,86,Certified
+S0493,Raymond Alvarado,120,32,47.06,92,38,Not Certified
+S0494,Abigail Hicks,120,77,95.06,97,44,Not Certified
+S0495,Dustin Ray,120,81,72.32,44,75,Not Certified
+S0496,Kathy Clay,120,71,97.26,73,49,Not Certified
+S0497,Christy Berg,120,43,61.43,65,87,Not Certified
+S0498,Bridget Cooper,120,42,42.42,45,76,Not Certified
+S0499,Sabrina Barnes,120,31,48.44,48,38,Not Certified
+S0500,Bryan Pineda,120,67,67,88,93,Not Certified
+S0501,John Jackson,120,101,94.39,54,57,Certified
+S0502,Christine Prince,120,27,29.35,68,100,Not Certified
+S0503,Bradley Kane,120,26,25,73,69,Not Certified
+S0504,Travis Rivera,120,21,34.43,62,64,Not Certified
+S0505,Thomas Anderson,120,43,46.24,42,30,Not Certified
+S0506,Andrew Galvan DDS,120,68,82.93,75,34,Not Certified
+S0507,Katherine Woods,120,10,9.52,94,58,Not Certified
+S0508,Zachary Phillips,120,41,38.32,77,87,Not Certified
+S0509,Christopher Wade,120,74,67.27,58,49,Not Certified
+S0510,Linda Shelton,120,24,32.43,64,51,Not Certified
+S0511,Richard Smith,120,67,71.28,47,38,Not Certified
+S0512,Heather Dickerson,120,94,100,95,90,Certified
+S0513,James Vang,120,101,96.19,55,52,Certified
+S0514,Jennifer Sullivan,120,1,1.56,93,90,Not Certified
+S0515,Johnny Huber,120,32,28.83,88,100,Not Certified
+S0516,Jennifer Cole,120,45,42.45,80,83,Not Certified
+S0517,Kimberly Gregory,120,33,52.38,42,79,Not Certified
+S0518,Stephanie Gonzales,120,17,14.78,68,87,Not Certified
+S0519,Victor Daniel,120,0,0,68,91,Not Certified
+S0520,Kevin Bright MD,120,4,3.64,62,93,Not Certified
+S0521,Kevin Pena,120,55,91.67,100,41,Not Certified
+S0522,Kimberly Murphy PhD,120,35,50,88,50,Not Certified
+S0523,Luis Tucker,120,58,84.06,93,35,Not Certified
+S0524,Amber Hansen,120,45,50.56,81,32,Not Certified
+S0525,Christopher Greene,120,9,10.47,88,42,Not Certified
+S0526,Jose Delacruz,120,110,96.49,69,94,Certified
+S0527,Toni Anderson,120,4,5.13,58,52,Not Certified
+S0528,Amanda Blevins,120,73,86.9,42,35,Not Certified
+S0529,Adam Lynch,120,47,55.95,84,88,Not Certified
+S0530,Jeffrey English,120,97,94.17,94,97,Certified
+S0531,Erica Hoffman,120,39,34.82,77,33,Not Certified
+S0532,Brandon Jones,120,2,3.12,73,79,Not Certified
+S0533,Joshua Caldwell,120,17,20,60,90,Not Certified
+S0534,Jeffrey Morales,120,33,54.1,71,63,Not Certified
+S0535,Kevin Park,120,25,28.41,60,86,Not Certified
+S0536,Jessica Williams,120,49,79.03,78,78,Certified
+S0537,Heather Walker,120,85,75.89,79,47,Not Certified
+S0538,Ronald Arias,120,30,42.86,44,49,Not Certified
+S0539,Jason Wilson,120,84,93.33,93,38,Not Certified
+S0540,Robert Cortez,120,57,49.14,54,32,Not Certified
+S0541,Melissa Jensen,120,16,15.24,82,40,Not Certified
+S0542,Joanne Hill,120,68,68,50,94,Not Certified
+S0543,Thomas Long,120,65,82.28,53,71,Certified
+S0544,Joshua Holder,120,5,4.67,99,74,Not Certified
+S0545,Nicholas Grant,120,1,1.18,75,47,Not Certified
+S0546,Katie Fisher,120,62,62,42,99,Not Certified
+S0547,Eric Chapman,120,51,53.12,87,48,Not Certified
+S0548,Pamela Doyle,120,35,30.17,74,52,Not Certified
+S0549,William Sandoval,120,50,47.17,72,42,Not Certified
+S0550,Amanda Harris,120,90,98.9,60,75,Certified
+S0551,Mary Brown,120,101,92.66,65,49,Not Certified
+S0552,Christine Parks,120,8,9.41,92,63,Not Certified
+S0553,Audrey Cohen,120,12,17.65,66,67,Not Certified
+S0554,Rhonda Cisneros,120,4,3.45,41,52,Not Certified
+S0555,David Villarreal,120,21,20,99,58,Not Certified
+S0556,Paige Stephens,120,31,28.7,47,46,Not Certified
+S0557,Christie Knapp,120,1,0.95,82,37,Not Certified
+S0558,Judy Callahan,120,34,34.69,53,96,Not Certified
+S0559,Amy Smith,120,25,34.72,72,44,Not Certified
+S0560,Jorge Houston,120,94,100,76,36,Not Certified
+S0561,Michael Harrington,120,0,0,99,86,Not Certified
+S0562,Alan Peterson,120,58,89.23,98,36,Not Certified
+S0563,Christopher Ward,120,5,6.33,56,81,Not Certified
+S0564,Angela Mitchell,120,48,80,47,73,Certified
+S0565,Thomas Jones,120,8,9.88,75,45,Not Certified
+S0566,Daniel Barker,120,33,50,49,33,Not Certified
+S0567,Leonard Carney,120,80,68.38,86,66,Not Certified
+S0568,Diane Weber,120,10,8.47,64,47,Not Certified
+S0569,Brandon Perez,120,35,48.61,49,52,Not Certified
+S0570,Travis Kim,120,39,47.56,52,99,Not Certified
+S0571,Richard Smith,120,47,54.65,74,69,Not Certified
+S0572,Warren Santiago,120,62,53.45,91,36,Not Certified
+S0573,Tyler Fields,120,95,93.14,89,59,Certified
+S0574,Eric Townsend,120,4,3.7,65,99,Not Certified
+S0575,Catherine Mcgee,120,54,45.76,44,100,Not Certified
+S0576,Michael Williams,120,65,82.28,74,67,Certified
+S0577,Alexander Reese,120,48,75,51,48,Not Certified
+S0578,Paul Wilson,120,20,24.69,87,52,Not Certified
+S0579,Brittany Wallace,120,62,59.05,78,42,Not Certified
+S0580,Billy Howard,120,54,79.41,63,47,Not Certified
+S0581,Stephen Young,120,43,51.81,75,41,Not Certified
+S0582,Mark Schmidt,120,49,62.82,46,55,Not Certified
+S0583,Darren Baker,120,4,5.56,58,54,Not Certified
+S0584,Matthew Myers,120,24,34.78,85,64,Not Certified
+S0585,Ann Montoya,120,74,76.29,98,75,Certified
+S0586,Tracey Barton,120,56,64.37,70,96,Not Certified
+S0587,Joshua Choi,120,114,96.61,97,48,Not Certified
+S0588,Rachel Donovan,120,37,37.76,50,70,Not Certified
+S0589,Lisa Moore,120,60,75.95,51,78,Certified
+S0590,Aaron Bray,120,3,4.76,57,39,Not Certified
+S0591,Nicholas Ware,120,84,84.85,85,96,Certified
+S0592,Stephanie Moore,120,72,90,53,42,Not Certified
+S0593,David Ortiz,120,13,11.4,86,55,Not Certified
+S0594,Jacob Everett,120,88,82.24,83,63,Certified
+S0595,Karen White,120,16,13.56,87,45,Not Certified
+S0596,Sharon Fisher,120,2,2.2,95,83,Not Certified
+S0597,Paul Osborne,120,7,8.97,96,42,Not Certified
+S0598,James Rose DDS,120,60,61.86,42,77,Not Certified
+S0599,Jose Berg,120,7,6.42,73,34,Not Certified
+S0600,Alexis Henderson,120,10,10.1,99,48,Not Certified
+S0601,Samantha Young,120,95,85.59,57,70,Certified
+S0602,Elizabeth Stone,120,88,73.95,49,47,Not Certified
+S0603,Dominique Logan,120,20,28.17,44,82,Not Certified
+S0604,Lindsay Hartman,120,11,12.64,88,30,Not Certified
+S0605,Yolanda Fox,120,48,44.04,61,74,Not Certified
+S0606,Jill Francis,120,14,12.17,78,88,Not Certified
+S0607,Rebecca Conway,120,93,93,47,69,Certified
+S0608,Colton Galloway,120,24,24.24,90,61,Not Certified
+S0609,Ashley Castaneda,120,75,85.23,51,98,Certified
+S0610,Richard Mccarthy,120,46,52.87,62,35,Not Certified
+S0611,Brian Spence,120,78,95.12,55,73,Certified
+S0612,Scott Holloway DDS,120,35,29.41,77,98,Not Certified
+S0613,Todd Chandler,120,20,29.85,44,87,Not Certified
+S0614,Brendan Kemp,120,46,39.66,54,49,Not Certified
+S0615,Lisa Garcia,120,32,34.41,80,93,Not Certified
+S0616,Steven Evans,120,56,57.73,56,97,Not Certified
+S0617,Bonnie Gillespie,120,54,56.84,49,58,Not Certified
+S0618,Steven Olsen,120,82,71.3,91,42,Not Certified
+S0619,Cynthia Cobb,120,71,70.3,87,39,Not Certified
+S0620,Robert Hodge,120,47,67.14,58,52,Not Certified
+S0621,Pamela Webb,120,38,48.1,45,70,Not Certified
+S0622,Bruce Mahoney,120,17,26.15,45,43,Not Certified
+S0623,Sierra Vazquez,120,72,84.71,64,51,Certified
+S0624,Anna Evans,120,31,27.68,98,81,Not Certified
+S0625,Kendra Lopez,120,15,15.62,55,32,Not Certified
+S0626,Clifford Dunn,120,83,70.34,49,43,Not Certified
+S0627,Diana Campbell MD,120,9,10.47,55,60,Not Certified
+S0628,Karina Fernandez,120,97,95.1,98,31,Not Certified
+S0629,Erik King,120,61,62.89,69,51,Not Certified
+S0630,Kristin White,120,53,82.81,48,83,Certified
+S0631,John Turner,120,76,73.08,97,74,Not Certified
+S0632,Amy Harris,120,30,27.03,40,58,Not Certified
+S0633,Wendy Brady,120,60,61.22,40,65,Not Certified
+S0634,Lauren Obrien,120,40,57.14,59,32,Not Certified
+S0635,Stacy Mclaughlin,120,83,86.46,63,100,Certified
+S0636,Nicholas Moore,120,12,10.91,92,94,Not Certified
+S0637,Kevin Trevino,120,35,53.85,83,40,Not Certified
+S0638,Gabriel Fitzgerald,120,42,51.22,50,35,Not Certified
+S0639,Kenneth Anderson,120,11,15.94,73,32,Not Certified
+S0640,Nicole Ortiz,120,41,41.41,50,54,Not Certified
+S0641,Reginald Ramos,120,6,8.7,68,85,Not Certified
+S0642,April Leon,120,59,56.19,40,92,Not Certified
+S0643,Lisa Mcpherson,120,91,76.47,72,66,Certified
+S0644,William Jones,120,93,97.89,90,37,Not Certified
+S0645,Steven Gilbert,120,19,22.62,71,34,Not Certified
+S0646,Billy Lewis,120,11,14.1,69,40,Not Certified
+S0647,Logan Sanchez,120,27,37.5,62,76,Not Certified
+S0648,Frederick Sloan,120,70,76.92,63,31,Not Certified
+S0649,Amanda Maxwell,120,53,65.43,52,74,Not Certified
+S0650,Mr. Curtis Clark,120,9,15,53,78,Not Certified
+S0651,Brandon Duncan,120,37,34.58,70,37,Not Certified
+S0652,Anna Parsons,120,84,73.68,57,45,Not Certified
+S0653,Gregory Greene,120,4,4.44,63,60,Not Certified
+S0654,Richard Gonzalez,120,67,95.71,76,69,Certified
+S0655,Bryan Burke,120,39,51.32,75,54,Not Certified
+S0656,Lisa Schmidt,120,82,93.18,57,78,Certified
+S0657,Marissa Allen,120,64,61.54,78,50,Not Certified
+S0658,Mary Morgan,120,80,84.21,50,90,Certified
+S0659,Dr. Elizabeth Henderson,120,0,0,94,73,Not Certified
+S0660,Steven Anthony,120,49,53.26,97,88,Not Certified
+S0661,Michelle Parks,120,50,65.79,52,70,Not Certified
+S0662,Morgan Allen,120,52,60.47,93,36,Not Certified
+S0663,Hannah Warren,120,26,25,88,91,Not Certified
+S0664,Brandon Cochran,120,59,50.86,100,79,Not Certified
+S0665,Kevin Miles,120,36,37.89,60,56,Not Certified
+S0666,Savannah Price,120,55,50.93,94,40,Not Certified
+S0667,Jennifer Simmons,120,40,47.06,63,77,Not Certified
+S0668,Emily Valdez,120,59,65.56,100,64,Not Certified
+S0669,Blake Hurst,120,33,53.23,81,90,Not Certified
+S0670,Jessica Robinson,120,77,96.25,62,69,Certified
+S0671,Dylan White,120,59,78.67,90,46,Not Certified
+S0672,Lawrence Murphy,120,31,41.33,71,88,Not Certified
+S0673,Jacob Wilson,120,4,5.8,79,86,Not Certified
+S0674,Jerry Miles,120,17,14.78,61,69,Not Certified
+S0675,John Mendoza,120,37,53.62,75,40,Not Certified
+S0676,Lynn Malone,120,18,24,81,44,Not Certified
+S0677,Aaron Miller,120,48,76.19,85,86,Certified
+S0678,Jacob Hodge,120,15,19.48,80,39,Not Certified
+S0679,Yesenia Fisher,120,6,6.59,43,41,Not Certified
+S0680,Nathan Martinez,120,67,63.81,56,62,Not Certified
+S0681,Kerri Fisher,120,28,24.35,77,94,Not Certified
+S0682,Peggy Allen,120,23,34.33,77,99,Not Certified
+S0683,Brittany Phelps,120,10,15.87,82,71,Not Certified
+S0684,Jenna Garner,120,75,67.57,90,65,Not Certified
+S0685,Billy Arnold,120,34,55.74,80,49,Not Certified
+S0686,Jonathan Pierce,120,53,74.65,72,37,Not Certified
+S0687,Elizabeth Farmer,120,23,29.49,82,37,Not Certified
+S0688,Jordan Little,120,8,9.52,74,81,Not Certified
+S0689,Lacey Graham,120,12,17.65,47,89,Not Certified
+S0690,Yvonne Wright,120,46,50.55,56,39,Not Certified
+S0691,Donna Higgins,120,29,40.85,74,94,Not Certified
+S0692,Deanna Jackson,120,52,61.9,69,71,Not Certified
+S0693,Randy Lynch,120,7,7.53,73,91,Not Certified
+S0694,Rebecca Long,120,22,29.33,93,83,Not Certified
+S0695,Joseph Scott,120,28,46.67,77,56,Not Certified
+S0696,Jeremy Stewart,120,107,89.17,44,32,Not Certified
+S0697,Tina Santos,120,55,90.16,81,88,Certified
+S0698,Courtney Williams,120,8,6.78,72,32,Not Certified
+S0699,Krystal Martin,120,67,65.69,85,35,Not Certified
+S0700,Dakota Hart,120,34,35.42,53,53,Not Certified
+S0701,Christine Padilla,120,51,70.83,82,77,Not Certified
+S0702,Michael Chen,120,8,12.5,89,37,Not Certified
+S0703,Gary Boyd,120,53,76.81,93,58,Certified
+S0704,Elizabeth Ward,120,47,39.5,99,80,Not Certified
+S0705,Joseph Wagner,120,21,30.43,92,91,Not Certified
+S0706,Danielle Newman,120,73,83.91,66,36,Not Certified
+S0707,Ralph Harmon,120,6,6.59,84,83,Not Certified
+S0708,Ethan Olson,120,37,41.57,76,73,Not Certified
+S0709,Angela Nelson,120,93,95.88,78,91,Certified
+S0710,Robin Martin,120,0,0,49,40,Not Certified
+S0711,Edwin Shah,120,15,17.24,74,86,Not Certified
+S0712,Jessica Palmer,120,17,25.76,84,76,Not Certified
+S0713,Nicole Whitehead,120,62,88.57,79,45,Not Certified
+S0714,Allison Williams,120,14,19.72,70,59,Not Certified
+S0715,John Smith,120,67,64.42,62,85,Not Certified
+S0716,Jason Mason,120,10,10.99,67,56,Not Certified
+S0717,Steven Duarte,120,110,92.44,70,31,Not Certified
+S0718,Yvonne Duncan,120,76,82.61,65,34,Not Certified
+S0719,Gloria Roberts,120,0,0,71,41,Not Certified
+S0720,Chris Brady,120,53,86.89,70,94,Certified
+S0721,Daniel Morris,120,7,8.97,76,64,Not Certified
+S0722,Ashley Mueller,120,24,32.88,76,56,Not Certified
+S0723,Gregg Becker,120,26,28.57,96,90,Not Certified
+S0724,Robert Edwards,120,6,6.52,54,81,Not Certified
+S0725,Jeremy Miller,120,48,44.44,85,84,Not Certified
+S0726,Eric Wright,120,23,19.49,89,96,Not Certified
+S0727,James Garcia,120,40,35.4,90,36,Not Certified
+S0728,Riley Thompson,120,50,64.94,92,56,Not Certified
+S0729,Amy Marquez,120,47,40.87,71,41,Not Certified
+S0730,Danielle Dudley,120,72,65.45,100,72,Not Certified
+S0731,Timothy Andersen,120,65,97.01,45,97,Certified
+S0732,Victoria Walker,120,2,2.41,82,46,Not Certified
+S0733,Lisa Stanley,120,59,51.75,76,50,Not Certified
+S0734,April Pham,120,95,80.51,72,82,Certified
+S0735,Michael Beck,120,83,80.58,63,70,Certified
+S0736,Danny Gonzalez,120,46,69.7,84,50,Not Certified
+S0737,Tracy Cruz,120,44,51.76,61,48,Not Certified
+S0738,Tiffany Nguyen,120,100,92.59,72,43,Not Certified
+S0739,Dustin Larsen,120,63,64.95,76,74,Not Certified
+S0740,Aaron Spencer,120,2,2.08,50,38,Not Certified
+S0741,Jessica Garcia,120,37,50,54,81,Not Certified
+S0742,Daniel May,120,14,17.07,61,70,Not Certified
+S0743,Bryan Foster,120,35,38.46,96,64,Not Certified
+S0744,David Wilkinson,120,89,91.75,99,58,Certified
+S0745,Melinda York,120,77,87.5,71,82,Certified
+S0746,Andrew Ward,120,1,1.56,71,82,Not Certified
+S0747,Christian Brown,120,54,78.26,59,38,Not Certified
+S0748,Danny Alvarez,120,1,1.47,60,84,Not Certified
+S0749,Gary Cain,120,12,13.04,79,43,Not Certified
+S0750,Michael Webb,120,12,11.01,78,85,Not Certified
+S0751,Sierra Lambert,120,4,3.7,62,95,Not Certified
+S0752,Nathan Kramer,120,50,61.73,57,81,Not Certified
+S0753,John Simpson,120,5,8.33,40,40,Not Certified
+S0754,Jorge Tucker,120,26,21.67,70,74,Not Certified
+S0755,Allen Brooks,120,97,86.61,65,96,Certified
+S0756,Caitlyn Kelly,120,46,63.89,76,37,Not Certified
+S0757,William Parker,120,36,39.56,68,44,Not Certified
+S0758,Brandi Bray,120,19,20.65,79,67,Not Certified
+S0759,Elizabeth Brown,120,1,1.3,55,30,Not Certified
+S0760,Mark Mccall,120,8,10,85,35,Not Certified
+S0761,Kevin Hill,120,11,17.46,73,47,Not Certified
+S0762,Anthony Bailey,120,17,24.29,55,75,Not Certified
+S0763,Edwin Anderson,120,20,22.99,41,30,Not Certified
+S0764,Frank Bray,120,55,63.95,45,39,Not Certified
+S0765,Tina Frye,120,32,51.61,55,73,Not Certified
+S0766,Justin Campbell,120,31,36.05,51,58,Not Certified
+S0767,Judith Grant,120,100,87.72,60,84,Certified
+S0768,Heidi Murray,120,10,9.35,87,43,Not Certified
+S0769,Kyle Holmes,120,24,39.34,56,96,Not Certified
+S0770,Rebecca Cruz,120,9,11.84,82,59,Not Certified
+S0771,Michael Gordon,120,22,22.92,73,76,Not Certified
+S0772,Steven Joseph,120,60,96.77,42,60,Certified
+S0773,Nicholas Walker,120,2,1.72,85,44,Not Certified
+S0774,Joseph Black,120,29,31.52,61,35,Not Certified
+S0775,Kirsten Dyer MD,120,45,45.92,83,46,Not Certified
+S0776,Randy Munoz,120,7,10.29,77,37,Not Certified
+S0777,Sharon Gray,120,42,42.42,98,87,Not Certified
+S0778,Scott Smith,120,3,4,98,64,Not Certified
+S0779,Donald Davidson,120,51,54.84,66,31,Not Certified
+S0780,Jo Jones,120,34,31.48,67,85,Not Certified
+S0781,Ann Hill,120,76,80.85,49,77,Certified
+S0782,Bradley Brown,120,104,90.43,63,41,Not Certified
+S0783,Yvonne Reeves,120,58,54.21,47,67,Not Certified
+S0784,Matthew Rogers,120,77,83.7,85,38,Not Certified
+S0785,Stephanie Elliott,120,20,25.32,91,31,Not Certified
+S0786,Nicholas Bright,120,6,6.52,57,89,Not Certified
+S0787,Chelsey Hernandez,120,5,7.58,74,34,Not Certified
+S0788,Kristine Riggs,120,38,37.25,44,54,Not Certified
+S0789,Jennifer Reilly,120,23,29.11,60,91,Not Certified
+S0790,Stephanie Ray,120,47,45.63,93,97,Not Certified
+S0791,Lauren Morales,120,60,58.82,73,90,Not Certified
+S0792,Anthony Morton,120,46,40.35,99,62,Not Certified
+S0793,William Gilbert,120,43,56.58,96,96,Not Certified
+S0794,Jeffery Mccoy,120,16,15.38,42,45,Not Certified
+S0795,Leonard Gonzales,120,68,56.67,56,66,Not Certified
+S0796,Holly Johnson,120,33,35.11,78,76,Not Certified
+S0797,Michael Dennis,120,89,76.72,64,81,Certified
+S0798,Brian Adams,120,64,96.97,60,30,Not Certified
+S0799,Anna Valentine,120,15,20.27,55,92,Not Certified
+S0800,Laurie Hammond,120,24,34.29,88,84,Not Certified
+S0801,Jeff Ruiz,120,57,90.48,90,78,Certified
+S0802,Mark Arellano,120,54,58.7,69,76,Not Certified
+S0803,Billy Chen,120,39,60,64,30,Not Certified
+S0804,Mary Salazar,120,48,40,71,52,Not Certified
+S0805,Matthew Paul,120,38,50.67,61,66,Not Certified
+S0806,Matthew Rose,120,34,32.08,69,86,Not Certified
+S0807,Cody Baldwin,120,0,0,78,71,Not Certified
+S0808,Courtney Bennett,120,101,84.87,71,60,Certified
+S0809,Jessica Valenzuela,120,48,68.57,92,63,Not Certified
+S0810,Angela Miller,120,8,9.76,88,67,Not Certified
+S0811,Susan Vega,120,3,3.85,57,87,Not Certified
+S0812,Joseph Wise,120,16,18.6,71,96,Not Certified
+S0813,Brian Johnson,120,72,86.75,90,73,Certified
+S0814,Joe Sparks,120,63,63,77,42,Not Certified
+S0815,Angela Jones,120,26,21.67,55,36,Not Certified
+S0816,Courtney Gordon MD,120,18,19.78,87,50,Not Certified
+S0817,Lisa Ferguson,120,53,80.3,54,52,Certified
+S0818,Carol Lawson,120,9,15,68,67,Not Certified
+S0819,Shannon Meyers,120,13,11.5,81,86,Not Certified
+S0820,Julia Smith,120,57,87.69,45,78,Certified
+S0821,Alicia Daniel,120,47,66.2,46,70,Not Certified
+S0822,Christopher Obrien,120,79,72.48,79,31,Not Certified
+S0823,Wanda Martinez,120,2,2.22,66,35,Not Certified
+S0824,Thomas Pollard,120,32,51.61,89,38,Not Certified
+S0825,Jeffrey Jackson,120,93,88.57,99,88,Certified
+S0826,Kathleen Evans,120,53,70.67,68,69,Not Certified
+S0827,Brittany Wilson,120,1,1.18,41,66,Not Certified
+S0828,Stephanie Daniel,120,68,61.82,73,78,Not Certified
+S0829,Vincent Smith,120,5,4.9,44,82,Not Certified
+S0830,William Morton,120,83,87.37,100,32,Not Certified
+S0831,Jeffrey Todd,120,71,59.17,64,86,Not Certified
+S0832,Sophia Jones,120,13,15.29,90,51,Not Certified
+S0833,Robert Randall,120,80,73.39,98,89,Not Certified
+S0834,Beverly Moore,120,92,98.92,73,55,Certified
+S0835,Rebecca Burns,120,12,17.39,89,92,Not Certified
+S0836,Paul Davis,120,8,12.9,40,52,Not Certified
+S0837,Richard Hughes,120,22,34.92,41,55,Not Certified
+S0838,Sandra Brown,120,59,65.56,71,97,Not Certified
+S0839,Fernando Robinson,120,61,64.89,44,30,Not Certified
+S0840,Katherine Young,120,31,40.79,88,46,Not Certified
+S0841,Andrew Smith,120,71,65.14,95,39,Not Certified
+S0842,Amanda Ray,120,31,37.35,54,97,Not Certified
+S0843,Aaron Harris,120,20,22.22,52,99,Not Certified
+S0844,Jeffrey Young,120,19,26.39,87,79,Not Certified
+S0845,Brenda Wagner,120,70,76.92,53,41,Not Certified
+S0846,Michael Smith,120,6,8.96,80,52,Not Certified
+S0847,Travis Carson,120,44,45.83,65,33,Not Certified
+S0848,Aaron Henderson,120,9,8.04,59,57,Not Certified
+S0849,Nicole Kaiser,120,56,48.28,83,46,Not Certified
+S0850,Danielle Meyer,120,14,12.84,77,45,Not Certified
+S0851,Sherri Johnson,120,62,92.54,44,81,Certified
+S0852,Sarah Green,120,91,89.22,55,86,Certified
+S0853,Willie Kelley,120,48,66.67,47,50,Not Certified
+S0854,Kyle Anthony,120,21,20.59,94,87,Not Certified
+S0855,Justin Rodriguez,120,32,53.33,50,67,Not Certified
+S0856,Laura Diaz,120,65,61.9,60,54,Not Certified
+S0857,Catherine Hernandez,120,66,60,69,93,Not Certified
+S0858,James Bridges,120,37,34.26,47,63,Not Certified
+S0859,Dr. Thomas Stevens,120,19,25.68,99,45,Not Certified
+S0860,Evelyn Lee,120,50,51.02,66,71,Not Certified
+S0861,Jacob Gray,120,58,89.23,56,85,Certified
+S0862,Tina Barnes,120,61,62.24,52,65,Not Certified
+S0863,John Holland,120,4,4.04,64,36,Not Certified
+S0864,David Lopez,120,39,42.39,62,82,Not Certified
+S0865,Ashley Walker,120,80,90.91,89,48,Not Certified
+S0866,Mr. Tim Jones,120,99,99,99,79,Certified
+S0867,Carl Tucker,120,72,62.61,73,93,Not Certified
+S0868,Jason Austin,120,71,62.83,44,60,Not Certified
+S0869,Kenneth Ortega,120,27,35.06,63,89,Not Certified
+S0870,Kristopher Wagner,120,15,13.04,53,31,Not Certified
+S0871,Donna Smith,120,92,93.88,55,68,Certified
+S0872,Andrew Graham,120,18,25.71,97,55,Not Certified
+S0873,Phillip Cook,120,57,48.31,55,50,Not Certified
+S0874,Tina Delacruz,120,53,79.1,60,39,Not Certified
+S0875,Veronica Collins,120,10,11.24,59,44,Not Certified
+S0876,Pamela Morris,120,80,97.56,44,86,Certified
+S0877,Jodi Moore,120,89,95.7,91,81,Certified
+S0878,Michael Brown,120,85,75.89,70,34,Not Certified
+S0879,Michael Williams,120,88,83.81,88,78,Certified
+S0880,Mr. Kristopher Gomez,120,2,2.25,40,74,Not Certified
+S0881,Katie Ball,120,29,31.52,40,41,Not Certified
+S0882,Julie Wilkinson,120,82,100,86,53,Certified
+S0883,Donna Riggs,120,37,35.58,83,37,Not Certified
+S0884,Angela Brewer,120,15,23.81,53,50,Not Certified
+S0885,John Buchanan,120,12,18.75,57,31,Not Certified
+S0886,Michael Mcintosh,120,5,6.17,64,47,Not Certified
+S0887,Ronald Owen,120,93,100,48,88,Certified
+S0888,Jeremiah Lewis,120,19,26.03,89,82,Not Certified
+S0889,Anthony Golden,120,90,96.77,53,40,Not Certified
+S0890,Jessica Khan,120,52,81.25,66,37,Not Certified
+S0891,Eric Miller,120,32,49.23,84,82,Not Certified
+S0892,Debra Nguyen,120,69,67.65,86,65,Not Certified
+S0893,Stephen Morales,120,96,92.31,95,32,Not Certified
+S0894,Christopher Johnson,120,62,71.26,69,97,Not Certified
+S0895,Nathaniel Hamilton,120,67,75.28,68,40,Not Certified
+S0896,Paul Nelson,120,30,26.32,84,85,Not Certified
+S0897,Tracy Torres,120,5,4.27,93,77,Not Certified
+S0898,Dawn Reyes,120,33,47.83,63,37,Not Certified
+S0899,Randy Rogers,120,43,47.25,40,97,Not Certified
+S0900,Shannon Frazier,120,60,61.86,93,79,Not Certified
+S0901,Mrs. Cheryl Oconnor MD,120,44,37.61,41,46,Not Certified
+S0902,Cynthia Vincent,120,111,97.37,82,96,Certified
+S0903,Paula Johnston,120,50,47.62,81,33,Not Certified
+S0904,Tyler Griffin,120,80,82.47,96,55,Certified
+S0905,Alicia Sullivan,120,25,36.23,43,90,Not Certified
+S0906,Lisa Hernandez,120,56,47.46,88,74,Not Certified
+S0907,Kathy Jenkins,120,75,91.46,99,76,Certified
+S0908,Jeremiah Chapman DDS,120,86,72.27,62,64,Not Certified
+S0909,Troy Campbell,120,0,0,43,67,Not Certified
+S0910,David Ramirez,120,19,30.65,64,65,Not Certified
+S0911,Brenda Howard,120,96,80.67,70,93,Certified
+S0912,Brenda Myers,120,72,90,83,98,Certified
+S0913,Danielle Neal,120,64,55.17,79,55,Not Certified
+S0914,Natalie Arias,120,16,13.33,47,69,Not Certified
+S0915,Christopher Williams,120,44,48.89,41,65,Not Certified
+S0916,Jacqueline Hernandez,120,78,78,86,99,Certified
+S0917,Margaret Peters,120,36,39.13,91,73,Not Certified
+S0918,Bryan Brown,120,45,46.88,94,45,Not Certified
+S0919,Mr. Miguel Walter,120,46,74.19,45,65,Not Certified
+S0920,Katelyn Castillo,120,83,95.4,94,32,Not Certified
+S0921,Robert Pena,120,103,95.37,53,63,Certified
+S0922,Dawn Gray,120,79,71.82,72,84,Not Certified
+S0923,Derek Greene,120,2,2.35,79,87,Not Certified
+S0924,Melissa Morris,120,60,50,44,82,Not Certified
+S0925,Johnny Reed,120,87,96.67,44,96,Certified
+S0926,Crystal Gray,120,31,33.33,61,100,Not Certified
+S0927,Gregory Phillips,120,54,81.82,51,58,Certified
+S0928,Jennifer Smith,120,55,79.71,53,41,Not Certified
+S0929,Diana Fritz,120,17,21.79,61,84,Not Certified
+S0930,Ryan Lam,120,11,9.48,86,92,Not Certified
+S0931,Victor Gilbert,120,25,24.75,73,82,Not Certified
+S0932,Randy Banks,120,56,56.57,78,100,Not Certified
+S0933,John Carey,120,75,70.75,59,51,Not Certified
+S0934,Karen Sims,120,10,11.63,70,71,Not Certified
+S0935,Nancy Ayala,120,71,83.53,40,80,Certified
+S0936,Jason Summers,120,3,2.56,66,73,Not Certified
+S0937,Michelle Hernandez,120,1,1.52,41,73,Not Certified
+S0938,Anthony Patterson,120,102,90.27,44,87,Certified
+S0939,Cameron Mcdonald,120,89,83.18,55,67,Certified
+S0940,Melissa Petty,120,75,66.96,99,60,Not Certified
+S0941,Peggy Powell,120,16,16.67,57,56,Not Certified
+S0942,Mark Williams,120,0,0,46,41,Not Certified
+S0943,Jeffrey Tucker,120,41,40.59,85,100,Not Certified
+S0944,Lawrence Pittman,120,42,66.67,71,50,Not Certified
+S0945,Sarah Hoffman,120,31,32.63,66,60,Not Certified
+S0946,Whitney Miller,120,93,82.3,97,89,Certified
+S0947,Sarah Robinson,120,50,52.63,95,55,Not Certified
+S0948,Mary Lee,120,115,96.64,94,76,Certified
+S0949,Erika Martin,120,30,31.25,85,72,Not Certified
+S0950,Aaron Fisher,120,72,85.71,79,50,Certified
+S0951,Rhonda Sims,120,55,51.4,40,33,Not Certified
+S0952,Dennis Jackson,120,48,71.64,47,83,Not Certified
+S0953,Eddie Brown,120,9,7.5,44,70,Not Certified
+S0954,Matthew Diaz,120,17,17.17,89,31,Not Certified
+S0955,Hannah Williamson,120,65,86.67,66,77,Certified
+S0956,Jacob Hendricks,120,99,90,94,99,Certified
+S0957,Melody Browning,120,53,73.61,47,33,Not Certified
+S0958,Erica Larson,120,77,100,40,59,Certified
+S0959,Leslie Trujillo,120,29,27.88,85,76,Not Certified
+S0960,Emily Bowman,120,37,42.53,53,69,Not Certified
+S0961,Kenneth Flores,120,18,21.95,65,100,Not Certified
+S0962,Tyler Norris,120,36,31.03,66,36,Not Certified
+S0963,Adam Taylor,120,49,46.67,68,30,Not Certified
+S0964,Linda Diaz,120,15,13.04,73,97,Not Certified
+S0965,Dr. Jessica Kim DVM,120,0,0,70,37,Not Certified
+S0966,George Chavez,120,31,36.47,67,37,Not Certified
+S0967,Alicia Edwards,120,51,42.5,50,79,Not Certified
+S0968,Elizabeth Rios,120,71,60.68,95,62,Not Certified
+S0969,Matthew Parker,120,111,95.69,82,62,Certified
+S0970,Hailey Sullivan,120,11,12.36,70,51,Not Certified
+S0971,Ricky Brooks,120,72,74.23,77,92,Not Certified
+S0972,Carolyn Herring,120,56,54.9,42,54,Not Certified
+S0973,Phillip Brady,120,26,27.96,49,95,Not Certified
+S0974,Christine Davis,120,44,70.97,42,58,Not Certified
+S0975,Levi Anderson,120,48,41.74,60,58,Not Certified
+S0976,Lance Allen,120,18,19.15,59,61,Not Certified
+S0977,Cynthia Johnson,120,82,95.35,64,69,Certified
+S0978,Douglas Burton,120,68,85,49,57,Certified
+S0979,Timothy Watson,120,8,8.42,64,30,Not Certified
+S0980,Kimberly Vasquez,120,47,73.44,74,32,Not Certified
+S0981,Rebecca Freeman,120,29,31.87,96,69,Not Certified
+S0982,Larry Mitchell,120,49,71.01,50,96,Not Certified
+S0983,Laura Lang,120,87,81.31,57,67,Certified
+S0984,Monica Jones,120,97,83.62,64,62,Certified
+S0985,Jacqueline Malone,120,94,97.92,45,30,Not Certified
+S0986,Tammy Vaughan,120,31,41.89,82,67,Not Certified
+S0987,Barbara Ballard,120,38,42.7,76,57,Not Certified
+S0988,Brandon Brown,120,31,30.1,73,53,Not Certified
+S0989,Elizabeth Carter,120,38,33.33,50,44,Not Certified
+S0990,Manuel Shaw,120,100,87.72,53,37,Not Certified
+S0991,Timothy Williams,120,52,49.06,90,52,Not Certified
+S0992,Eric Jackson,120,65,98.48,85,54,Certified
+S0993,Jessica Sheppard,120,57,59.38,52,42,Not Certified
+S0994,Micheal Meyer,120,30,37.5,71,33,Not Certified
+S0995,Ryan Henderson,120,35,53.03,67,75,Not Certified
+S0996,Lisa Martinez,120,101,86.32,44,42,Not Certified
+S0997,John Vasquez,120,69,65.71,58,65,Not Certified
+S0998,Wendy Shea,120,49,63.64,49,87,Not Certified
+S0999,Thomas Jones,120,35,29.66,45,41,Not Certified
+S1000,Steven Smith,120,68,76.4,61,42,Not Certified
+S1001,Jesus Williams,120,49,50,96,88,Not Certified
+S1002,Billy Farley,120,35,47.95,54,74,Not Certified
+S1003,Stacie Martin,120,86,100,54,55,Certified
+S1004,Laura Bryant,120,42,43.75,87,70,Not Certified
+S1005,Rachel Wilson,120,25,21.74,48,38,Not Certified
+S1006,Stephanie Smith,120,12,11.54,70,46,Not Certified
+S1007,Blake Martin,120,71,65.74,74,81,Not Certified
+S1008,Eric Abbott,120,72,85.71,80,46,Not Certified
+S1009,Kathleen Davis,120,76,92.68,76,52,Certified
+S1010,Jessica Adams,120,68,80,93,85,Certified
+S1011,Deanna Jones,120,37,40.66,43,96,Not Certified
+S1012,Kayla Johnson,120,0,0,67,55,Not Certified
+S1013,Stacie Bowers,120,57,86.36,98,44,Not Certified
+S1014,Dylan Jones,120,16,16.84,100,31,Not Certified
+S1015,Alan Morris,120,56,56,59,77,Not Certified
+S1016,Adrian Anderson,120,92,77.31,51,35,Not Certified
+S1017,Gary Tucker,120,8,10.96,75,56,Not Certified
+S1018,William Parker,120,8,7.84,85,34,Not Certified
+S1019,Michael Davis,120,62,86.11,98,80,Certified
+S1020,Nicole Jones,120,83,76.85,92,100,Certified
+S1021,Brandon King,120,33,29.2,63,37,Not Certified
+S1022,Julian Cole,120,20,33.33,46,84,Not Certified
+S1023,Mr. Benjamin Hooper Jr.,120,80,86.02,47,93,Certified
+S1024,Laura Smith,120,52,59.77,66,82,Not Certified
+S1025,Timothy Gomez,120,48,60.76,86,43,Not Certified
+S1026,Deanna Hampton,120,30,37.04,89,77,Not Certified
+S1027,Ms. April Mack,120,14,18.67,52,93,Not Certified
+S1028,Aaron Hill,120,16,18.39,92,68,Not Certified
+S1029,Erica Rivas,120,45,61.64,64,94,Not Certified
+S1030,Deborah Spencer,120,38,35.19,89,33,Not Certified
+S1031,Maria Ferguson,120,90,90.91,93,69,Certified
+S1032,Eric Williams,120,1,1.54,86,89,Not Certified
+S1033,Dr. Sharon Lee,120,64,67.37,96,85,Not Certified
+S1034,Kellie Moreno,120,46,41.07,100,32,Not Certified
+S1035,Christopher Chase,120,21,18.42,53,31,Not Certified
+S1036,Jamie Thompson,120,3,3.61,62,48,Not Certified
+S1037,Amber Hamilton,120,35,51.47,50,31,Not Certified
+S1038,Barry Ramos,120,22,27.85,92,67,Not Certified
+S1039,Kelly Singh,120,78,70.91,42,47,Not Certified
+S1040,Kristin Reeves,120,34,31.19,40,40,Not Certified
+S1041,Michael Adams,120,20,23.53,91,31,Not Certified
+S1042,Mr. Adam Johnson,120,30,45.45,73,53,Not Certified
+S1043,Eric Burton,120,43,39.09,53,35,Not Certified
+S1044,Elizabeth Smith,120,8,12.5,85,77,Not Certified
+S1045,Amy Wade,120,20,31.75,59,39,Not Certified
+S1046,Jorge Day,120,65,61.32,47,38,Not Certified
+S1047,Daniel Dunn,120,63,60,85,75,Not Certified
+S1048,Angela Park,120,42,37.84,73,90,Not Certified
+S1049,Jasmine Cobb,120,15,20,68,40,Not Certified
+S1050,Brian Baker,120,40,57.97,64,91,Not Certified
+S1051,Chase Henry,120,18,17.65,42,81,Not Certified
+S1052,Kathryn Burns,120,44,73.33,88,66,Not Certified
+S1053,Brandon Adams,120,31,32.98,93,57,Not Certified
+S1054,Michael Johnson,120,11,11.58,78,39,Not Certified
+S1055,Christina Marks,120,22,36.07,100,83,Not Certified
+S1056,Jamie Flynn,120,48,71.64,47,89,Not Certified
+S1057,Bradley Hernandez,120,33,44.59,85,72,Not Certified
+S1058,Lori Mcdonald,120,4,3.77,69,72,Not Certified
+S1059,Natalie Wagner,120,6,7.69,64,37,Not Certified
+S1060,Kevin Clayton,120,34,30.36,68,73,Not Certified
+S1061,Matthew Miller,120,89,83.18,65,60,Certified
+S1062,Richard Sanchez,120,6,8.45,75,95,Not Certified
+S1063,Calvin Christensen,120,5,6.76,62,44,Not Certified
+S1064,Susan Phelps,120,35,50.72,76,73,Not Certified
+S1065,Jenny Crane,120,30,27.52,63,55,Not Certified
+S1066,Mrs. Yvette Warner,120,34,46.58,60,54,Not Certified
+S1067,Jennifer Holmes,120,16,13.56,72,66,Not Certified
+S1068,Carlos Woodard,120,56,68.29,76,47,Not Certified
+S1069,Lisa Mcgee,120,3,3.95,72,93,Not Certified
+S1070,Joshua Black,120,34,45.33,44,63,Not Certified
+S1071,Phillip Byrd,120,7,7.45,70,61,Not Certified
+S1072,Diana Vazquez,120,64,83.12,99,56,Certified
+S1073,Lydia Burke,120,72,85.71,95,50,Certified
+S1074,Ann Adams,120,23,37.7,92,71,Not Certified
+S1075,Stephen Garcia,120,81,71.68,49,59,Not Certified
+S1076,Brenda Mercado,120,42,35.59,69,41,Not Certified
+S1077,Dr. Evan Boyd,120,80,88.89,60,88,Certified
+S1078,Stephanie Anderson,120,16,16,64,44,Not Certified
+S1079,Lonnie Miller,120,52,65.82,62,64,Not Certified
+S1080,Penny Wallace,120,4,4.3,57,96,Not Certified
+S1081,Matthew Pena,120,23,19.66,40,64,Not Certified
+S1082,Bernard Griffin,120,44,59.46,53,46,Not Certified
+S1083,Angela Weaver,120,26,22.03,44,61,Not Certified
+S1084,Mark Martin,120,105,93.75,81,46,Not Certified
+S1085,Robert Webster,120,62,92.54,63,87,Certified
+S1086,Joseph Barton,120,58,65.91,52,75,Not Certified
+S1087,Martin Allen,120,45,63.38,74,31,Not Certified
+S1088,Jessica Jackson,120,85,82.52,70,62,Certified
+S1089,Kimberly Gill,120,78,86.67,95,98,Certified
+S1090,Dominique Bell,120,6,9.68,81,34,Not Certified
+S1091,Robert Payne,120,26,22.22,61,62,Not Certified
+S1092,Andrea Martinez MD,120,33,43.42,67,45,Not Certified
+S1093,Lisa Benjamin,120,81,76.42,60,86,Certified
+S1094,Adam Rodriguez,120,13,14.77,87,82,Not Certified
+S1095,Ronald Jones,120,21,23.86,91,42,Not Certified
+S1096,Adam Winters,120,35,35.71,80,70,Not Certified
+S1097,Brandy Howard,120,75,72.82,47,62,Not Certified
+S1098,Jesse Heath,120,51,50.5,84,40,Not Certified
+S1099,Jesse Bishop,120,7,9.59,84,91,Not Certified
+S1100,Zachary Beck,120,30,49.18,99,65,Not Certified
+S1101,Ralph Oneal,120,77,98.72,69,78,Certified
+S1102,Thomas Peters,120,28,24.56,53,42,Not Certified
+S1103,Todd Rios,120,24,21.05,69,85,Not Certified
+S1104,Shaun Li,120,66,76.74,59,68,Certified
+S1105,Mary Wells,120,9,9.28,95,79,Not Certified
+S1106,Travis Hooper,120,16,18.6,59,75,Not Certified
+S1107,John Anderson,120,39,52.7,99,50,Not Certified
+S1108,Haley West,120,2,1.75,42,81,Not Certified
+S1109,Rachel Sullivan,120,84,77.78,57,41,Not Certified
+S1110,Melinda Hartman,120,30,40,78,57,Not Certified
+S1111,Brian Owen,120,48,46.15,87,58,Not Certified
+S1112,Veronica Villarreal,120,85,89.47,74,61,Certified
+S1113,Christian Flores,120,30,33.71,99,82,Not Certified
+S1114,Monica Duffy,120,29,32.22,94,87,Not Certified
+S1115,James Anderson,120,26,40.62,98,51,Not Certified
+S1116,Matthew Paul,120,10,15.15,83,49,Not Certified
+S1117,William Rodriguez,120,64,92.75,65,57,Certified
+S1118,Paul Lee,120,77,66.38,69,46,Not Certified
+S1119,Michelle Harmon,120,79,75.96,47,50,Certified
+S1120,Jacob Johnson,120,33,45.21,59,97,Not Certified
+S1121,Thomas Allen,120,5,6.94,50,39,Not Certified
+S1122,Brandon Mcintyre,120,57,64.04,46,90,Not Certified
+S1123,Jacob Hall,120,67,75.28,77,61,Certified
+S1124,Eric James,120,66,97.06,49,69,Certified
+S1125,Jessica Walker,120,41,37.27,92,73,Not Certified
+S1126,William Walton,120,6,8.96,44,45,Not Certified
+S1127,Michael Burgess,120,45,47.37,100,44,Not Certified
+S1128,Alyssa Torres,120,72,79.12,73,74,Certified
+S1129,Lance Reynolds,120,81,97.59,41,72,Certified
+S1130,Jared Farmer,120,42,62.69,85,64,Not Certified
+S1131,Samantha Smith,120,33,48.53,68,68,Not Certified
+S1132,Kristi Wood,120,49,64.47,60,43,Not Certified
+S1133,Janet Martinez,120,31,29.52,90,53,Not Certified
+S1134,Tiffany Grant,120,20,25,73,65,Not Certified
+S1135,Heather Adams,120,26,22.61,59,92,Not Certified
+S1136,William Scott,120,21,21.88,40,41,Not Certified
+S1137,John Washington,120,60,52.17,96,63,Not Certified
+S1138,Joshua Ellis,120,27,23.89,99,71,Not Certified
+S1139,Julie Evans,120,18,15.25,78,53,Not Certified
+S1140,Traci Mora,120,42,40.38,59,83,Not Certified
+S1141,Carl Dunn,120,50,52.08,92,32,Not Certified
+S1142,Anthony Parker,120,16,16.84,52,67,Not Certified
+S1143,Johnny Farmer,120,78,79.59,86,81,Certified
+S1144,Christian Rodriguez,120,1,1.56,80,58,Not Certified
+S1145,Brittany Goodman,120,44,56.41,62,90,Not Certified
+S1146,Christopher Nelson,120,12,11.21,57,73,Not Certified
+S1147,Maria Rice,120,47,46.08,78,30,Not Certified
+S1148,Timothy Stewart,120,62,67.39,64,91,Not Certified
+S1149,Darryl Young,120,48,53.93,82,89,Not Certified
+S1150,Jaime Ball,120,68,80.95,45,78,Certified
+S1151,William Carroll,120,84,95.45,89,77,Certified
+S1152,Martin Franklin,120,59,63.44,52,36,Not Certified
+S1153,Dustin Cowan,120,22,33.33,62,30,Not Certified
+S1154,Jennifer Kelly,120,4,4.21,64,69,Not Certified
+S1155,Mason Lloyd DDS,120,69,84.15,58,42,Not Certified
+S1156,Anthony Davenport,120,69,81.18,62,55,Certified
+S1157,Emily White,120,49,64.47,61,95,Not Certified
+S1158,David Rasmussen,120,32,38.55,71,71,Not Certified
+S1159,Jose Ramirez,120,4,5.06,57,69,Not Certified
+S1160,Katherine Stephens,120,48,42.48,79,44,Not Certified
+S1161,Deborah Middleton,120,23,20.18,54,65,Not Certified
+S1162,Isaac Douglas,120,3,4,98,58,Not Certified
+S1163,Debra Poole,120,44,51.16,82,60,Not Certified
+S1164,Keith James,120,101,84.87,87,60,Certified
+S1165,Gregory Krause,120,99,86.09,48,80,Certified
+S1166,Kathleen Terry,120,10,9.9,99,36,Not Certified
+S1167,Mikayla Lewis,120,8,13.33,45,65,Not Certified
+S1168,April Mejia,120,64,53.33,50,47,Not Certified
+S1169,Paul Fitzpatrick,120,84,96.55,45,67,Certified
+S1170,Kimberly Martinez,120,71,80.68,40,57,Certified
+S1171,Chelsea Jacobson,120,51,70.83,41,66,Not Certified
+S1172,Veronica Zavala,120,41,46.07,90,63,Not Certified
+S1173,Kathy Turner,120,57,67.06,70,38,Not Certified
+S1174,Dalton Green,120,8,10.81,58,70,Not Certified
+S1175,Kimberly Rich,120,31,39.74,77,89,Not Certified
+S1176,Stephanie Carson,120,59,51.3,95,31,Not Certified
+S1177,Diana Hill,120,111,95.69,93,67,Certified
+S1178,Tamara Livingston,120,38,44.71,90,39,Not Certified
+S1179,Alexandra Hunter,120,5,8.33,87,88,Not Certified
+S1180,Jonathan Alexander,120,63,98.44,86,60,Certified
+S1181,Cheyenne Daniel,120,41,46.07,52,90,Not Certified
+S1182,Jerry Smith,120,52,55.91,51,93,Not Certified
+S1183,Shelly Brooks,120,53,49.07,67,75,Not Certified
+S1184,Kathleen Parrish,120,103,95.37,58,35,Not Certified
+S1185,Sarah Richardson,120,41,35.65,87,58,Not Certified
+S1186,Brian Navarro,120,9,14.29,53,30,Not Certified
+S1187,Christopher Parker,120,33,38.82,91,40,Not Certified
+S1188,Peter Burke,120,99,87.61,76,49,Not Certified
+S1189,Margaret Herrera,120,39,62.9,65,54,Not Certified
+S1190,Anthony Cannon DDS,120,63,55.75,63,35,Not Certified
+S1191,Erik Paul,120,5,4.72,45,44,Not Certified
+S1192,Carrie Golden,120,33,43.42,43,61,Not Certified
+S1193,Jamie Martin,120,4,3.54,71,81,Not Certified
+S1194,Cameron Myers,120,41,36.94,69,72,Not Certified
+S1195,Christopher Johnson,120,42,50,98,78,Not Certified
+S1196,Jill Berry,120,27,25,67,48,Not Certified
+S1197,Jared Rodriguez,120,110,96.49,82,87,Certified
+S1198,Emily Martin,120,33,47.83,63,99,Not Certified
+S1199,Nicholas Wiggins,120,21,19.63,60,37,Not Certified
+S1200,Monica Barry,120,52,54.17,89,73,Not Certified
+S1201,Robert Palmer,120,3,2.78,40,94,Not Certified
+S1202,Lisa Burke,120,66,94.29,75,77,Certified
+S1203,Craig Jennings,120,97,83.62,75,50,Certified
+S1204,William Allen,120,61,93.85,78,65,Certified
+S1205,Gary Rosales,120,6,5.22,41,52,Not Certified
+S1206,Jamie Berry,120,28,35.9,57,41,Not Certified
+S1207,Cynthia Taylor,120,72,75.79,93,96,Certified
+S1208,Nathan Thomas,120,80,94.12,92,52,Certified
+S1209,Brandi Gibbs,120,13,15.29,94,30,Not Certified
+S1210,Theresa Smith,120,10,8.47,55,79,Not Certified
+S1211,Victor Medina,120,1,1.02,50,50,Not Certified
+S1212,Michael Peterson,120,36,50,77,59,Not Certified
+S1213,Frederick Rojas,120,57,55.34,51,66,Not Certified
+S1214,Linda Weeks,120,76,80.85,95,54,Certified
+S1215,Matthew Green,120,3,3.03,98,84,Not Certified
+S1216,David Logan,120,7,7.37,91,90,Not Certified
+S1217,Cathy Bonilla,120,19,16.67,71,72,Not Certified
+S1218,Amanda Hunt,120,11,17.74,70,72,Not Certified
+S1219,Catherine Humphrey,120,77,98.72,71,87,Certified
+S1220,Troy Ayala,120,27,34.18,69,99,Not Certified
+S1221,Jessica Huff,120,78,71.56,55,91,Not Certified
+S1222,Kimberly Williams,120,55,61.8,56,59,Not Certified
+S1223,Jill Patterson,120,14,19.72,68,49,Not Certified
+S1224,Roger Campbell,120,57,70.37,58,50,Not Certified
+S1225,Carolyn Henderson,120,65,83.33,67,62,Certified
+S1226,John Gill,120,89,86.41,41,68,Certified
+S1227,Anne Young,120,56,50.45,80,51,Not Certified
+S1228,Michelle Nelson,120,87,74.36,92,74,Not Certified
+S1229,Mark Gonzalez,120,80,74.07,68,36,Not Certified
+S1230,Lucas Ryan,120,8,10.39,62,82,Not Certified
+S1231,Mrs. April Wong,120,58,59.79,66,88,Not Certified
+S1232,Rebecca Watson,120,82,73.87,85,68,Not Certified
+S1233,Erin Buckley,120,77,87.5,45,45,Not Certified
+S1234,Justin Golden,120,80,85.11,90,70,Certified
+S1235,Rachel Delgado,120,72,98.63,67,58,Certified
+S1236,Fernando Hudson,120,22,20.95,43,59,Not Certified
+S1237,Jerry Vega,120,65,91.55,40,57,Certified
+S1238,Jennifer Kennedy,120,35,46.67,59,99,Not Certified
+S1239,Courtney Nelson,120,47,77.05,75,52,Certified
+S1240,Dawn White,120,11,12.79,93,94,Not Certified
+S1241,Jennifer Page MD,120,56,55.45,49,66,Not Certified
+S1242,Kelly Dodson,120,18,24.32,99,95,Not Certified
+S1243,Stacy King,120,23,35.94,58,66,Not Certified
+S1244,Ronald Kirby,120,8,7.48,87,100,Not Certified
+S1245,David Smith,120,71,66.36,65,89,Not Certified
+S1246,Kiara Smith,120,22,31.43,76,30,Not Certified
+S1247,Shelby Nunez,120,17,27.42,92,30,Not Certified
+S1248,Robert Anderson,120,14,17.5,42,99,Not Certified
+S1249,Ann Page,120,39,52,45,97,Not Certified
+S1250,William Rogers,120,3,2.65,71,48,Not Certified
+S1251,Katherine Wilkerson,120,8,10.67,75,83,Not Certified
+S1252,Amy Reed,120,30,33.33,85,51,Not Certified
+S1253,Kelly King,120,1,1.39,47,67,Not Certified
+S1254,Rebecca James,120,50,64.1,75,65,Not Certified
+S1255,Tiffany Krause,120,32,37.21,56,57,Not Certified
+S1256,Alan White,120,63,95.45,56,75,Certified
+S1257,Jeffrey Palmer,120,70,92.11,46,57,Certified
+S1258,Dominique Weeks,120,104,88.14,78,71,Certified
+S1259,Timothy Jones,120,38,42.7,52,58,Not Certified
+S1260,Brian Thomas,120,12,17.91,92,50,Not Certified
+S1261,Michael Jackson,120,9,14.29,87,62,Not Certified
+S1262,Kevin Williams,120,10,14.08,85,39,Not Certified
+S1263,Robert Morgan,120,44,65.67,87,90,Not Certified
+S1264,Dennis Chaney,120,15,14.71,73,95,Not Certified
+S1265,April Patrick,120,11,17.19,55,48,Not Certified
+S1266,Brent Forbes,120,28,41.79,90,83,Not Certified
+S1267,Haley Miller,120,27,32.93,99,97,Not Certified
+S1268,Lisa Wolfe,120,24,30,90,38,Not Certified
+S1269,Henry Baker,120,24,40,73,52,Not Certified
+S1270,Jennifer Carr,120,93,87.74,59,30,Not Certified
+S1271,Gabriela Reynolds,120,32,49.23,84,45,Not Certified
+S1272,Kaitlyn Coleman,120,58,59.79,44,46,Not Certified
+S1273,Anthony Cox,120,36,41.86,87,71,Not Certified
+S1274,Sherry Moore,120,63,76.83,78,40,Not Certified
+S1275,Suzanne Armstrong,120,79,73.83,81,49,Not Certified
+S1276,Rebecca Lewis,120,17,18.28,77,66,Not Certified
+S1277,Mary Nguyen,120,92,82.14,46,50,Certified
+S1278,Paige Williams,120,96,80.67,40,58,Certified
+S1279,Jasmine Wood,120,74,93.67,83,62,Certified
+S1280,Daniel Foster,120,64,57.66,50,60,Not Certified
+S1281,Nicholas Nelson,120,75,86.21,43,78,Certified
+S1282,Robert Wells,120,69,71.13,60,64,Not Certified
+S1283,Luis Jimenez,120,48,64.86,57,52,Not Certified
+S1284,Ryan Costa,120,10,8.33,97,89,Not Certified
+S1285,Mark Mcpherson,120,43,54.43,64,32,Not Certified
+S1286,Christopher Thompson,120,27,35.06,55,49,Not Certified
+S1287,Joseph Fox,120,88,100,67,69,Certified
+S1288,Melissa Wells,120,61,85.92,66,45,Not Certified
+S1289,Anna Parks,120,56,62.22,71,97,Not Certified
+S1290,John Allen,120,27,31.76,95,43,Not Certified
+S1291,Amy Garner,120,18,16.22,41,37,Not Certified
+S1292,Cindy Harrison,120,40,61.54,76,95,Not Certified
+S1293,Brenda Hunt,120,45,42.06,61,90,Not Certified
+S1294,Patrick Curtis,120,74,71.84,46,99,Not Certified
+S1295,James Hancock,120,5,4.17,91,33,Not Certified
+S1296,Adriana Carpenter,120,40,57.14,65,75,Not Certified
+S1297,David Sherman,120,50,42.02,80,81,Not Certified
+S1298,Anthony Hughes,120,24,36.36,74,96,Not Certified
+S1299,Randy Maxwell,120,63,86.3,68,55,Certified
+S1300,Heather Thompson,120,43,38.39,61,59,Not Certified
+S1301,Madison Black,120,68,72.34,100,30,Not Certified
+S1302,Maria Gibson,120,42,55.26,49,41,Not Certified
+S1303,Erica Fernandez,120,28,26.67,81,63,Not Certified
+S1304,Joshua Marshall,120,77,65.25,94,93,Not Certified
+S1305,Christopher Wood,120,10,9.8,56,51,Not Certified
+S1306,Alexandra Hunter,120,74,77.08,92,74,Certified
+S1307,Aaron Graham,120,111,94.87,50,80,Certified
+S1308,Scott Johnson,120,47,67.14,95,93,Not Certified
+S1309,Daniel Long,120,2,1.68,68,81,Not Certified
+S1310,Erin Garcia,120,18,18.56,50,100,Not Certified
+S1311,Sandra Walker,120,33,37.08,54,68,Not Certified
+S1312,Nathan Griffin,120,71,78.89,65,73,Certified
+S1313,Karen Duran,120,75,64.66,58,89,Not Certified
+S1314,Ricky Myers,120,14,20.9,84,95,Not Certified
+S1315,Joseph Nguyen,120,23,22.33,69,79,Not Certified
+S1316,Nicole Barajas,120,36,48,90,94,Not Certified
+S1317,Doris Holder,120,70,89.74,68,35,Not Certified
+S1318,Kimberly Perez,120,65,61.32,99,55,Not Certified
+S1319,Stephen Grimes,120,42,61.76,98,66,Not Certified
+S1320,Stephanie Adkins,120,23,35.94,48,89,Not Certified
+S1321,John Lopez,120,30,33.33,64,62,Not Certified
+S1322,Miss Amy Johnson MD,120,5,5.32,47,93,Not Certified
+S1323,Corey Thompson,120,57,50.44,46,53,Not Certified
+S1324,Darren Wagner,120,57,48.31,89,38,Not Certified
+S1325,Frank Bradley,120,71,94.67,51,90,Certified
+S1326,Katie Mills,120,113,98.26,100,32,Not Certified
+S1327,Nicole Romero,120,40,40.82,77,74,Not Certified
+S1328,Meghan Combs,120,39,33.91,54,83,Not Certified
+S1329,Joseph Kennedy,120,32,31.37,41,61,Not Certified
+S1330,Daniel Miller,120,68,62.96,74,31,Not Certified
+S1331,Joseph Davidson,120,13,20.63,40,63,Not Certified
+S1332,Kenneth Holt,120,52,50.98,85,71,Not Certified
+S1333,Stephanie Williams,120,83,85.57,44,51,Certified
+S1334,Michael Mcgee,120,85,72.03,79,55,Not Certified
+S1335,Stephen Johnson,120,54,60.67,84,64,Not Certified
+S1336,Kimberly Small,120,76,87.36,57,60,Certified
+S1337,Joseph Cowan,120,17,14.78,43,97,Not Certified
+S1338,Jeffrey Watson,120,66,61.68,83,46,Not Certified
+S1339,Jimmy Nicholson,120,3,3.41,77,83,Not Certified
+S1340,Brian Young,120,97,93.27,58,97,Certified
+S1341,Ms. Christina Daniels,120,106,91.38,44,75,Certified
+S1342,Marie Valencia,120,44,37.61,83,82,Not Certified
+S1343,Jeremy Bryant,120,76,67.86,42,74,Not Certified
+S1344,Christian Wright,120,18,30,43,94,Not Certified
+S1345,Karen Moore,120,38,44.19,58,93,Not Certified
+S1346,Amy Jacobson,120,13,18.57,80,92,Not Certified
+S1347,Lisa Sutton,120,23,24.73,50,45,Not Certified
+S1348,Amber Williams,120,45,58.44,92,79,Not Certified
+S1349,Michele Mcclain,120,36,57.14,62,41,Not Certified
+S1350,Christina Mills,120,40,41.67,87,50,Not Certified
+S1351,Jason Johnson,120,53,65.43,61,48,Not Certified
+S1352,Natasha Nguyen,120,11,12.5,73,80,Not Certified
+S1353,Joshua Simon,120,26,23.21,43,96,Not Certified
+S1354,Maria Wilson,120,84,85.71,78,49,Not Certified
+S1355,Jeffrey Reed,120,77,91.67,41,35,Not Certified
+S1356,Michelle Hawkins,120,83,87.37,78,85,Certified
+S1357,Adrienne Jones,120,13,14.77,89,87,Not Certified
+S1358,Colleen Wright,120,23,25.84,87,78,Not Certified
+S1359,Madison Clark,120,21,33.33,52,49,Not Certified
+S1360,Savannah Howard,120,26,32.5,54,45,Not Certified
+S1361,Pamela Smith,120,13,17.11,79,73,Not Certified
+S1362,Mike Preston,120,5,5.68,82,67,Not Certified
+S1363,Danielle Rhodes,120,20,24.39,51,34,Not Certified
+S1364,Sheri Butler,120,4,4.08,46,37,Not Certified
+S1365,Christopher Adams,120,43,45.74,77,37,Not Certified
+S1366,Helen Warren,120,15,20,64,78,Not Certified
+S1367,Craig Alexander,120,33,27.5,55,49,Not Certified
+S1368,Christopher Sanford,120,56,50,71,71,Not Certified
+S1369,Bradley Griffin,120,53,62.35,88,49,Not Certified
+S1370,Eric Dyer,120,75,64.66,74,60,Not Certified
+S1371,Anthony West,120,15,17.65,48,37,Not Certified
+S1372,James Keith,120,31,28.7,80,92,Not Certified
+S1373,Julie Bautista,120,22,22.45,58,35,Not Certified
+S1374,Angela Meadows,120,13,14.77,70,87,Not Certified
+S1375,Joseph Hanson,120,42,47.19,71,64,Not Certified
+S1376,Tracy Hess,120,36,40,91,49,Not Certified
+S1377,Nathan Bond,120,9,7.96,100,46,Not Certified
+S1378,Trevor Moran,120,73,60.83,74,74,Not Certified
+S1379,Laurie Fleming,120,37,33.04,55,85,Not Certified
+S1380,Justin Wheeler,120,67,84.81,65,67,Certified
+S1381,Elizabeth Davis,120,40,65.57,44,95,Not Certified
+S1382,Rhonda Nelson,120,17,28.33,73,78,Not Certified
+S1383,Melissa Hawkins,120,42,39.25,81,81,Not Certified
+S1384,Dr. Michelle Barry,120,52,46.85,42,41,Not Certified
+S1385,Kaitlin Kelley,120,37,54.41,51,76,Not Certified
+S1386,Joseph Nielsen,120,9,10,74,50,Not Certified
+S1387,Wesley Davis,120,45,63.38,96,70,Not Certified
+S1388,Katelyn Elliott,120,110,99.1,67,53,Certified
+S1389,Amber White,120,7,9.59,76,89,Not Certified
+S1390,Allison Duncan,120,20,23.26,86,35,Not Certified
+S1391,Michael Kim,120,52,59.09,74,91,Not Certified
+S1392,Alex Massey,120,71,61.74,56,65,Not Certified
+S1393,Erica Brown,120,93,97.89,81,65,Certified
+S1394,Alexis Clarke,120,11,10,62,51,Not Certified
+S1395,Don Lee Jr.,120,82,88.17,48,48,Not Certified
+S1396,Michelle Scott,120,56,88.89,55,41,Not Certified
+S1397,Rebecca White,120,8,12.31,49,92,Not Certified
+S1398,Angela Acosta,120,1,1.45,49,63,Not Certified
+S1399,Heather Bishop,120,7,11.29,55,88,Not Certified
+S1400,Jesse Madden,120,1,1.09,44,67,Not Certified
+S1401,Amanda Baird,120,5,6.33,49,69,Not Certified
+S1402,Craig Mccoy,120,63,91.3,98,93,Certified
+S1403,Adam Coleman,120,66,91.67,43,50,Certified
+S1404,Taylor Copeland,120,8,10.13,64,89,Not Certified
+S1405,Brent Finley,120,88,77.88,72,34,Not Certified
+S1406,Dustin Young,120,23,23,59,61,Not Certified
+S1407,Cindy Davis,120,39,34.51,65,73,Not Certified
+S1408,William Lawrence,120,112,93.33,78,58,Certified
+S1409,Morgan Garrett,120,78,72.22,78,48,Not Certified
+S1410,Jonathan Burns,120,51,64.56,54,66,Not Certified
+S1411,Erik Dixon,120,22,28.21,75,71,Not Certified
+S1412,Nicholas Ford,120,6,8.57,80,97,Not Certified
+S1413,Raven Wright,120,64,57.14,79,79,Not Certified
+S1414,Ronald Prince,120,13,20.97,77,50,Not Certified
+S1415,Dr. Stacey Carr,120,58,60.42,87,97,Not Certified
+S1416,Erika Greene,120,81,68.64,40,88,Not Certified
+S1417,Alexandra Carroll,120,11,10.89,76,64,Not Certified
+S1418,Kyle Smith,120,92,79.31,68,63,Certified
+S1419,Beth Wiley DDS,120,66,78.57,67,38,Not Certified
+S1420,Nicole Nguyen,120,109,96.46,84,50,Certified
+S1421,Timothy Kennedy,120,31,44.93,97,92,Not Certified
+S1422,Stephanie Bradford,120,16,17.39,93,60,Not Certified
+S1423,Michael Pena,120,33,31.13,96,52,Not Certified
+S1424,Julia Patterson,120,71,87.65,89,78,Certified
+S1425,Jeffrey Jones PhD,120,43,43.43,51,90,Not Certified
+S1426,Taylor Howard,120,43,51.19,48,59,Not Certified
+S1427,Jessica Davila,120,57,79.17,92,62,Certified
+S1428,Jessica Christian,120,92,76.67,42,61,Certified
+S1429,Anne Wilson,120,65,56.03,94,38,Not Certified
+S1430,Ricardo Reeves,120,21,31.34,53,89,Not Certified
+S1431,Danielle George,120,16,16.49,72,83,Not Certified
+S1432,James Jackson,120,52,72.22,44,47,Not Certified
+S1433,Adam Ortiz,120,21,24.71,87,50,Not Certified
+S1434,Jill Wilson,120,94,89.52,51,45,Not Certified
+S1435,Brian Thomas,120,73,61.34,91,41,Not Certified
+S1436,Jason Stokes,120,14,17.95,60,44,Not Certified
+S1437,Raymond Bauer,120,88,91.67,57,86,Certified
+S1438,Kevin Gonzalez,120,23,21.5,61,60,Not Certified
+S1439,Joseph Walsh,120,84,95.45,83,79,Certified
+S1440,Sara Lopez,120,70,86.42,97,49,Not Certified
+S1441,Miranda Daugherty,120,26,25.74,61,95,Not Certified
+S1442,Jorge Cross,120,11,17.74,41,79,Not Certified
+S1443,Michelle Young,120,52,69.33,56,67,Not Certified
+S1444,James Morton,120,37,31.62,44,33,Not Certified
+S1445,Amanda Knight,120,22,18.97,66,48,Not Certified
+S1446,Timothy Kelly,120,64,76.19,90,98,Certified
+S1447,Logan Stevens,120,53,45.69,40,82,Not Certified
+S1448,Julia Juarez,120,18,16.07,83,30,Not Certified
+S1449,Kelsey Stout,120,40,40.4,85,67,Not Certified
+S1450,Jacob Washington,120,57,90.48,54,61,Certified
+S1451,Lindsey Diaz,120,25,32.89,72,47,Not Certified
+S1452,David Hall,120,72,79.12,81,53,Certified
+S1453,Stephen Williams,120,16,21.05,50,68,Not Certified
+S1454,Larry Lucero,120,55,82.09,100,32,Not Certified
+S1455,Maureen Glass,120,61,57.55,69,78,Not Certified
+S1456,Jacob Brewer,120,62,55.86,54,65,Not Certified
+S1457,Megan Branch,120,50,65.79,50,86,Not Certified
+S1458,Michelle Scott DVM,120,8,10.26,87,73,Not Certified
+S1459,Elijah Pruitt,120,73,89.02,52,33,Not Certified
+S1460,Cheryl Wilson,120,13,17.57,69,37,Not Certified
+S1461,William Olson,120,107,98.17,46,77,Certified
+S1462,Carrie Short,120,64,84.21,83,82,Certified
+S1463,Monica Farrell,120,12,18.18,78,85,Not Certified
+S1464,Brian Peterson,120,79,66.95,82,75,Not Certified
+S1465,Tara Johnson,120,3,2.61,55,58,Not Certified
+S1466,Caroline Mcgee,120,72,79.12,91,36,Not Certified
+S1467,Amanda Martin,120,19,20.65,87,68,Not Certified
+S1468,Victoria Smith,120,6,9.84,44,65,Not Certified
+S1469,David Ballard,120,6,6.06,42,97,Not Certified
+S1470,Linda Barajas,120,80,67.8,53,89,Not Certified
+S1471,Thomas Morgan,120,54,62.07,81,96,Not Certified
+S1472,Jennifer Lozano,120,2,2.2,47,53,Not Certified
+S1473,Darius Reeves,120,60,57.14,56,39,Not Certified
+S1474,Dalton Knapp,120,42,39.62,72,92,Not Certified
+S1475,Mark Thompson,120,7,11.11,53,48,Not Certified
+S1476,Cassidy Coffey,120,64,92.75,85,100,Certified
+S1477,Matthew Olson,120,61,100,47,35,Not Certified
+S1478,Brittany Banks,120,74,74.75,74,61,Not Certified
+S1479,Brandon Davis,120,43,67.19,52,42,Not Certified
+S1480,Anne Fernandez,120,53,58.24,62,41,Not Certified
+S1481,Jessica Gilmore,120,98,100,62,67,Certified
+S1482,Madison Duffy,120,4,3.51,87,93,Not Certified
+S1483,Jennifer Davis,120,24,24,96,57,Not Certified
+S1484,Leah Edwards,120,77,68.14,42,89,Not Certified
+S1485,Jamie Alvarado,120,9,10.11,97,48,Not Certified
+S1486,Dr. Johnny Marshall,120,25,36.76,45,41,Not Certified
+S1487,Troy Smith,120,86,76.79,82,70,Certified
+S1488,Benjamin Little,120,13,16.05,100,76,Not Certified
+S1489,Joseph Acevedo,120,110,91.67,100,32,Not Certified
+S1490,Nicole Barnett,120,33,46.48,58,81,Not Certified
+S1491,Casey Hunt,120,74,100,82,46,Not Certified
+S1492,Corey Dickerson,120,115,100,49,43,Not Certified
+S1493,Tara Alvarado,120,2,2.67,87,72,Not Certified
+S1494,Ryan Anderson,120,24,26.97,90,81,Not Certified
+S1495,Chad Keller,120,14,20,64,31,Not Certified
+S1496,Joshua Wells,120,52,77.61,69,34,Not Certified
+S1497,Suzanne Atkinson,120,64,68.09,57,79,Not Certified
+S1498,Dana Gonzalez,120,33,42.31,56,91,Not Certified
+S1499,Stephen Howe,120,65,100,41,97,Certified
+S1500,Scott Anderson,120,49,48.51,62,98,Not Certified
